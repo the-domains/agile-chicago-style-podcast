@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-10-07T17:00:37.236Z'
+datePublished: '2016-10-07T17:01:21.591Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-07T13:23:27.173Z'
+dateModified: '2016-10-07T17:01:21.086Z'
 title: 'Agile Training and Coaching, with Aakash Srinivasan'
 publisher: {}
 description: >-
   Aakash Srinivasan is an Agile Coach and Trainer, in the Washington DC area,
   who speaks quite often at Agile events, conferences and Gatherings. Aakash and
   I sat down last month and talked about a great range of topics.
-starred: false
 sourcePath: _posts/2016-10-07-agile-training-and-coaching-with-aakash-srinivasan.md
+starred: false
 url: agile-training-and-coaching-with-aakash-srinivasan/index.html
 _type: Article
 
