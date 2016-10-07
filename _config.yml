@@ -60,11 +60,11 @@ navigation:
   - name: 'Agile Potpurri, with Vivek Angiras'
     id: 78463475-3422-4930-b2fe-b8af60e91ed8
     type: content
-  - name: About Us
-    id: 02f715be-8077-4f88-a828-8a939ccf2002
-    type: content
   - name: '“Don’t Scrum Undone”, with Angela Johnson'
     id: 020709d8-2edc-4d47-a720-aa01d1034fbd
+    type: content
+  - name: About Us
+    id: 02f715be-8077-4f88-a828-8a939ccf2002
     type: content
 favicon: null
 title: Agile Chicago Style Podcast
