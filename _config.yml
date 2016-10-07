@@ -66,6 +66,9 @@ navigation:
   - name: About Us
     id: 02f715be-8077-4f88-a828-8a939ccf2002
     type: content
+  - name: Dave Sharrock – 3 Stages of Scaling Agile Organizations
+    id: e45f084d-f100-4a8e-8d63-ecb14cc24ba9
+    type: content
 favicon: null
 title: Agile Chicago Style Podcast
 content: []
