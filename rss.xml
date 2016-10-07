@@ -4,21 +4,14 @@
         <description><![CDATA[Agile Chicago Style Podcast]]></description>
         <link>https://thegrid.ai/agile-chicago-style-podcast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 18:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2016 17:00:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agile-chicago-style-podcast/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[About Us]]></title>
-            <description><![CDATA[<article><h1>About Us</h1><p>Rick Waters</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06facad2b381b389f0f5d70dfa2556095b5841ba.jpg"></article>]]></description>
-            <link>https://thegrid.ai/agile-chicago-style-podcast/about-us/index.html</link>
-            <guid isPermaLink="false">02f715be-8077-4f88-a828-8a939ccf2002</guid>
-            <pubDate>Wed, 02 Mar 2016 18:40:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Being Agile with Tom Mellor]]></title>
-            <description><![CDATA[<article><h1>Being Agile with Tom Mellor</h1><p>Matt and Rick discuss being Agile over doing Agile, and characteristics of Agile organizations, with Tom Mellor.</p></article>]]></description>
-            <link>https://thegrid.ai/agile-chicago-style-podcast/being-agile-with-tom-mellor/index.html</link>
-            <guid isPermaLink="false">f607c0ef-640c-475a-a385-acc8525a1785</guid>
-            <pubDate>Fri, 26 Feb 2016 21:10:30 GMT</pubDate>
+            <title><![CDATA[Agile Training and Coaching, with Aakash Srinivasan]]></title>
+            <description><![CDATA[<article><h1>Agile Training and Coaching, with Aakash Srinivasan</h1><p>Aakash Srinivasan is an Agile Coach and Trainer, in the Washington DC area, who speaks quite often at Agile events, conferences and Gatherings. Aakash and I sat down last month and talked about a great range of topics.</p></article>]]></description>
+            <link>https://thegrid.ai/agile-chicago-style-podcast/agile-training-and-coaching-with-aakash-srinivasan/index.html</link>
+            <guid isPermaLink="false">4be9e3d4-7fee-45df-b1ae-5d8967adb0ad</guid>
+            <pubDate>Fri, 07 Oct 2016 17:00:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
