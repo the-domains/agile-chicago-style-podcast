@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-07T18:48:03.260Z'
+datePublished: '2016-10-07T18:48:18.450Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-07T18:47:18.637Z'
+dateModified: '2016-10-07T18:48:18.108Z'
 title: '“Don’t Scrum Undone”, with Angela Johnson'
 publisher: {}
 description: >-
@@ -12,8 +12,8 @@ description: >-
   modifications to Scrum that make us cringe. Sprint 0 and Story Authors topped
   the list. Please give Angela’s article Are You Transforming the World of Work,
   or Confusing It? for more on these subjects.
-starred: false
 sourcePath: _posts/2016-10-07-dont-scrum-undone-with-angela-johnson.md
+starred: false
 url: dont-scrum-undone-with-angela-johnson/index.html
 _type: Blurb
 
