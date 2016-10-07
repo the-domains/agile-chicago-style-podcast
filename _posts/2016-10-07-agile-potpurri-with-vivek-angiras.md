@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-07T17:00:40.698Z'
+datePublished: '2016-10-07T17:01:43.229Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-07T13:56:37.214Z'
+dateModified: '2016-10-07T17:01:42.909Z'
 title: 'Agile Potpurri, with Vivek Angiras'
 publisher: {}
 description: >-
@@ -12,8 +12,8 @@ description: >-
   Governance to Training certification, Agile industry diversity to Release
   Planning, etc. We briefly touch on our career goals of CST and CSC, and where
   we are at in our journeys.
-starred: false
 sourcePath: _posts/2016-10-07-agile-potpurri-with-vivek-angiras.md
+starred: false
 url: agile-potpurri-with-vivek-angiras/index.html
 _type: Blurb
 
