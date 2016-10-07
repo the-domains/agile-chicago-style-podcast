@@ -1,19 +1,6 @@
-name: Agile Chicago Style Podcast
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.28335
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +12,53 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5299220778979361
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Rick Waters
+  email: AgileChicagoStyle@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d62cf0e-4218-4435-bca9-c19067e24b80.png
+name: Agile Chicago Style
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: A True Agile Transformation
+    id: 9940140a-fe74-4517-8150-ecd2144aa415
+    type: content
+  - name: 'Being Agile or Doing Agile, with Tom Mellor'
+    id: e14cb3f2-d97d-4fa2-8b7e-e9408095780d
+    type: content
+  - name: 'Talking CSD with Chet Hendrickson, Ron Jeffries and Brian Levy'
+    id: c47f0bee-70b0-4133-9574-9360094e366f
+    type: content
+  - name: What’s Eating Agile?
+    id: 4d691cf9-0392-423e-9e94-bbddb1aef486
+    type: content
+  - name: Introducing… Matt Beam!
+    id: 8f46dce0-9782-4c9c-ab06-ea139d888a08
+    type: content
+  - name: 'The Road to DevOps, with Jack Walser'
+    id: dbbfc550-7b19-4564-95c2-1987a1a67a88
+    type: content
+  - name: Discussing the State of Scrum – with Maria Matarelli and Aakash Srinivasan
+    id: 10f6e35b-0c20-4acc-b685-02738df1fa82
+    type: content
+  - name: About Us
+    id: 02f715be-8077-4f88-a828-8a939ccf2002
+    type: content
+favicon: null
+title: Agile Chicago Style Podcast
+content: []
+description: Helping UNLEASH the Agile Community on Chicago
 purpose: []
