@@ -51,11 +51,11 @@ navigation:
   - name: 'The Road to DevOps, with Jack Walser'
     id: dbbfc550-7b19-4564-95c2-1987a1a67a88
     type: content
-  - name: 'Agile Training and Coaching, with Aakash Srinivasan'
-    id: 4be9e3d4-7fee-45df-b1ae-5d8967adb0ad
-    type: content
   - name: Discussing the State of Scrum – with Maria Matarelli and Aakash Srinivasan
     id: 10f6e35b-0c20-4acc-b685-02738df1fa82
+    type: content
+  - name: 'Agile Training and Coaching, with Aakash Srinivasan'
+    id: 4be9e3d4-7fee-45df-b1ae-5d8967adb0ad
     type: content
   - name: About Us
     id: 02f715be-8077-4f88-a828-8a939ccf2002
