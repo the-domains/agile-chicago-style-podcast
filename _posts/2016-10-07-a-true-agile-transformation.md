@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-07T18:37:36.954Z'
+datePublished: '2016-10-08T00:46:42.178Z'
 sourcePath: _posts/2016-10-07-a-true-agile-transformation.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-07T18:37:36.419Z'
+dateModified: '2016-10-08T00:46:41.862Z'
 title: A True Agile Transformation
 publisher: {}
 description: >-
@@ -21,8 +21,8 @@ _type: MediaObject
 ---
 # A True Agile Transformation
 
-If you've been around Chicago long enough, at least in the Agile community, you would know that the company currently known as HERE (formerly NAVTEQ and then Nokia) has a great reputation for being an Agile organization through and through. The truth is, the Agile movement there started as an experiment -- as most things in Agile should.
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlUMtuwzAM-xXDwI6p0qHLgKHprwx-qI1QWQpsB1n29XPaW3ejSIGkdKZrdglNqRvjaL3miPnLiApaU3IYLcBUE390M7sN84HJl00OQRNg8hgBZyoaESjCaTiePoceJqTbVOG972GlWCcYGqoTJoRSnUSXY5dICNxSW9BPBdGmL8mLI4YNy0PZE3dlzsjq4g5Fv11sjlT2KVLGUEkFvAv3tdk2tgsuTAg1LwjWPKuMtnWx5lFmtMe-f2vHhazMJLfRilpjHLOu14W5CYhiVvR3qq9s0t9XSv_tlBfmcobnmy9_wMeFVw" height="200" style=""></iframe>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkEtuwzAMRK8iaO_QLVIXKOJcpdCHiYlQpCHJcN3TV0527m44jxgOeKFbdglNqRvjaL3miPnLiApaU3IYLcBUE390M7sN84nJl01OQRNg8hgBZyoaESjCeXg7fw49TEj3qcJ738NKsU4wNFUnTAilOokuxy6RELiltkM_FUQbX5IXRwwblifZL-5kzsjq4i5Fv11siVT2KVLGUEkFvAuPtcU2twsuTAg1LwjWvKqMtnWx5llmtMOuS8jKTHIfrag1xjHreluYG0AUs6J_UD26SX-Plv7bKQfneoHXl69_WuyFNw" height="244" style=""></iframe>
+If you've been around Chicago long enough, at least in the Agile community, you would know that the company currently known as HERE (formerly NAVTEQ and then Nokia) has a great reputation for being an Agile organization through and through. The truth is, the Agile movement there started as an experiment -- as most things in Agile should.
 
 I tag along while Allen Rutzen and Jorgen Hesselberg describe the best example of a true Agile Transformation and an organizational Agile Mindset.
