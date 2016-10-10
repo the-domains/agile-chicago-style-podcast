@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-10T13:41:26.247Z'
+datePublished: '2016-10-10T13:42:28.915Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-10T13:40:25.240Z'
+dateModified: '2016-10-10T13:42:28.352Z'
 title: 'Agile: From Theory into Practice for Social Good'
 publisher: {}
 description: >-
@@ -12,8 +12,8 @@ description: >-
   author, talks with me about her experience in a recent CSM class where she
   brought in Suzanne Oliver, of Heart of a Fighter, to act as a real-life
   Product Owner of/for her non-profit organization.
-starred: false
 sourcePath: _posts/2016-10-10-agile-from-theory-into-practice-for-social-good.md
+starred: false
 url: agile-from-theory-into-practice-for-social-good/index.html
 _type: Blurb
 
