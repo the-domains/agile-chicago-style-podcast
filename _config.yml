@@ -69,6 +69,9 @@ navigation:
   - name: About Us
     id: 02f715be-8077-4f88-a828-8a939ccf2002
     type: content
+  - name: The Agile Life and Times of Mike Marchi
+    id: f6c221a4-3d51-4e52-a9d6-9454d1ce9c58
+    type: content
 favicon: null
 title: Agile Chicago Style Podcast
 content: []
