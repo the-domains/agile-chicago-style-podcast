@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-10T17:27:30.501Z'
+datePublished: '2016-10-10T17:32:05.937Z'
 sourcePath: _posts/2016-10-07-whats-eating-agile.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-10T17:27:29.950Z'
+dateModified: '2016-10-10T17:32:05.405Z'
 title: What’s Eating Agile?
 publisher: {}
 description: Just Matt and Rick
@@ -18,7 +18,7 @@ _type: Blurb
 
 Just Matt and Rick
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlUMtqwzAQ_BUh6NFZJbSlKXF-peixiZZIu0aScd2vr5zQS3qbxzIz7IkuxWZUta0JR-2kBCyfioVRq1r8qAFiy-ltmJJdsewSubryzksGzA4D4ERVAgIFeDWHj-PRQES6xgYHY2Ch0CK8d9QiZoTaLAdbwpCJCezcetF3A5buz9mxpQQr1ruzNW7OVDCJDRtk-bKhJ1LdWKCCvpEwOOtvS4_t6uCtjwitzAhaPaaMem_Mi1b3NX-k-iIpEV9HzaKVsinJcplT6gYiqwXdjdqzmuXnWZJ_N_VJOZ_g8efzLyuHhX8" height="200" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkN1qwzAMhV_FGHaZyi0LrKPpqwz_qI2obAXbIcuefk7LbrI7ne-Io4MudMs2oip1ZRy0kxwwf6okCbUq2Q8aYKyR-25iu2I-MLmypoOXCBgdBsCJigQECvBuTh_ns4ER6T5WOBkDC4U6Qt8bqCNGhFJtCjaHLlIisHNth74rJGn-HF2yxLBieTrbxc2ZMrLYsI1JvmxoiVQ2FSijryQJnPWPpcU22nnrR4SaZwStXlUGfTTmTatnmz9RfBZmSvdBJ9FKWWZZbjNzMxCTWtA9qO5plJ89kn87ZUeuF3j9-foLL6qFgw" height="200" style=""></iframe>
 
 Just Matt and Rick for this episode. Matt recalls his experience at a local Agile Meetup -- APLN Chicago. The topic: Culture Eats Agile for Breakfast.
 
