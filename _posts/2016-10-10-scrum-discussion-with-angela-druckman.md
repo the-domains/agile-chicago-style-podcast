@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-10-10T13:42:15.509Z'
+datePublished: '2016-10-10T16:24:34.827Z'
+sourcePath: _posts/2016-10-10-scrum-discussion-with-angela-druckman.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-10T13:42:14.666Z'
+dateModified: '2016-10-10T16:24:33.290Z'
 title: Scrum Discussion with Angela Druckman
 publisher: {}
 description: >-
@@ -14,7 +15,6 @@ description: >-
   She authored 30 Days to Better Agile, and is currently working on a new book
   about Agile Coaching. Her new book will be a companion to an Agile Coaching
   course that she plans on offering for the first time, this Spring.
-sourcePath: _posts/2016-10-10-scrum-discussion-with-angela-druckman.md
 starred: false
 url: scrum-discussion-with-angela-druckman/index.html
 _type: Blurb
