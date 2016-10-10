@@ -1,5 +1,6 @@
-layout_spectrum: 0.10378518542597569
 typography_spectrum: 0.7890841016026748
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#ffffff'
@@ -11,13 +12,12 @@ color:
   lightness: 0.0013794815951571017
   saturation: 0.22762727383367423
   rhythmicContrast: 0.44941170699488703
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.10378518542597569
 analytics:
   google: null
   facebook: null
@@ -83,4 +83,7 @@ favicon: null
 title: Agile Chicago Style Podcast
 content: []
 description: Helping UNLEASH the Agile Community on Chicago
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:AgileChicagoStyle@gmail.com'
+    label: email us!
