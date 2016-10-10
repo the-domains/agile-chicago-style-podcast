@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-10-10T13:42:03.275Z'
+datePublished: '2016-10-10T16:25:10.654Z'
+sourcePath: _posts/2016-10-10-the-agile-life-and-times-of-mike-marchi.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-10T13:42:02.877Z'
+dateModified: '2016-10-10T16:25:09.740Z'
 title: The Agile Life and Times of Mike Marchi
 publisher: {}
 description: >-
@@ -14,7 +15,6 @@ description: >-
   Gatherings, team experiences, motivating teams, etc. Please listen for some
   great examples of real-life Scrum success stories, and a few funny stories
   too.
-sourcePath: _posts/2016-10-10-the-agile-life-and-times-of-mike-marchi.md
 starred: false
 url: the-agile-life-and-times-of-mike-marchi/index.html
 _type: Blurb
