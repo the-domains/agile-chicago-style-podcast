@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-08T01:43:52.995Z'
+datePublished: '2016-10-11T12:49:21.316Z'
 sourcePath: >-
   _posts/2016-10-07-talking-csd-with-chet-hendrickson-ron-jeffries-and-brian-le.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-08T01:43:52.632Z'
+dateModified: '2016-10-11T12:49:20.890Z'
 title: 'Talking CSD with Chet Hendrickson, Ron Jeffries and Brian Levy'
 publisher: {}
 description: >-
@@ -20,12 +20,13 @@ _type: Blurb
 
 ---
 # Talking CSD with Chet Hendrickson, Ron Jeffries and Brian Levy
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlUMtuwzAM-xXDwI6pkmFbgaHprxR-qI1QWQpsB1n29XPaW3ejSIGkdKJrdglNqRvjaL3miPnbiApaU3IYLcBUE392M7sN84HJl00OQRNg8hgBZyoaESjCxzAcj8MAE9JtqvDe97BSrBN8NVQnTAilOokuxy6RELiltqCfCqJNX5IXRwwbloeyJ-7KnJHVxR2KXlxsjlT2KVLGUEkFvAv3tdk2tgsuTAg1LwjWPKuMtnWx5lFmtEPfv7XjQlZmkttoRa0xjlnX68LcBEQxK_o71Vc26e8rpf92ygtzPsHzzec_ugqFUQ" height="200" style=""></iframe>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cb9ff98-a593-4d77-9348-792344d86ac3.jpg)
 
 I recently got the most wonderful opportunity to talk with a couple of legends in the Agile Community -- Chet Hendrickson and Ron Jeffries! They're partnering with Brian Levy to bring a 5-Day, dual certification, public CSD class to Chicago for the week of 14-18 March, 2016\.
 
 Ron, Chet and Brian discuss many of the XP Practices we grown to love and integrate into our Scrum implementations. Brian also adds a dash of SAFe to the conversation.The class, in downtown Chicago, combines a 3-day Certified Scrum Developer (CSD) class and a 2-Day SAFe ScrumXP class. Class attendees will be awarded the CSD via Scrum Alliance (assuming they already have other pre-requisites covered), and the Scaled Practitioner (SP) via Scaled Agile.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlUMtuwzAM-xXDwI6pkmFbgaHprxR-qI1QWQpsB1n29XPaW3ejSIGkdKJrdglNqRvjaL3miPnbiApaU3IYLcBUE392M7sN84HJl00OQRNg8hgBZyoaESjCxzAcj8MAE9JtqvDe97BSrBN8NVQnTAilOokuxy6RELiltqCfCqJNX5IXRwwbloeyJ-7KnJHVxR2KXlxsjlT2KVLGUEkFvAv3tdk2tgsuTAg1LwjWPKuMtnWx5lFmtEPfv7XjQlZmkttoRa0xjlnX68LcBEQxK_o71Vc26e8rpf92ygtzPsHzzec_ugqFUQ" height="200" style=""></iframe>
 
 **Details for the class can be found at these sites**  
 [Scrum Alliance ][0]  
