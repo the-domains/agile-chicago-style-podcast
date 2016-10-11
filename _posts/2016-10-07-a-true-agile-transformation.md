@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-11T12:48:34.547Z'
+datePublished: '2016-10-11T12:54:04.841Z'
 sourcePath: _posts/2016-10-07-a-true-agile-transformation.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T12:48:34.075Z'
+dateModified: '2016-10-11T12:54:04.419Z'
 title: A True Agile Transformation
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ _type: MediaObject
 
 ---
 # A True Agile Transformation
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e1d7178c0eee9ecea817462d66324175/croprotate.jpg?cropheight=300&cropwidth=382&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa5bfb816-fdd0-488d-8041-4febf7fb4e22.jpg&x=67&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/07bbcf6a34e20cd2f90a008ba9d946725e47452c.jpg)
 
 If you've been around Chicago long enough, at least in the Agile community, you would know that the company currently known as HERE (formerly NAVTEQ and then Nokia) has a great reputation for being an Agile organization through and through. The truth is, the Agile movement there started as an experiment -- as most things in Agile should.
 
