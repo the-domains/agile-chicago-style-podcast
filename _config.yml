@@ -49,6 +49,9 @@ navigation:
   - name: Introducing… Matt Beam!
     id: 8f46dce0-9782-4c9c-ab06-ea139d888a08
     type: content
+  - name: About Us
+    id: 02f715be-8077-4f88-a828-8a939ccf2002
+    type: content
   - name: 'The Road to DevOps, with Jack Walser'
     id: dbbfc550-7b19-4564-95c2-1987a1a67a88
     type: content
@@ -60,9 +63,6 @@ navigation:
     type: content
   - name: 'Agile Potpurri, with Vivek Angiras'
     id: 78463475-3422-4930-b2fe-b8af60e91ed8
-    type: content
-  - name: About Us
-    id: 02f715be-8077-4f88-a828-8a939ccf2002
     type: content
   - name: '“Don’t Scrum Undone”, with Angela Johnson'
     id: 020709d8-2edc-4d47-a720-aa01d1034fbd
