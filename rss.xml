@@ -4,9 +4,9 @@
         <description><![CDATA[Agile Chicago Style Podcast]]></description>
         <link>http://agilechicagostyle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 12 Oct 2016 13:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2016 13:28:06 GMT</lastBuildDate>
         <atom:link href="http://agilechicagostyle.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Oct 2016 13:23:57 GMT</pubDate>
+        <pubDate>Wed, 12 Oct 2016 13:28:05 GMT</pubDate>
         <item>
             <title><![CDATA[A True Agile Transformation]]></title>
             <description><![CDATA[<article><h1>A True Agile Transformation</h1><p>If you’ve been around Chicago long enough, at least in the Agile community, you would know that the company currently known as HERE (formerly NAVTEQ and then Nokia) has a great reputation for being an Agile organization through and through. The truth is, the Agile movement there started as an experiment – as most things in Agile should.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07bbcf6a34e20cd2f90a008ba9d946725e47452c.jpg"></article>]]></description>
@@ -44,10 +44,10 @@
         </item>
         <item>
             <title><![CDATA[The Road to DevOps, with Jack Walser]]></title>
-            <description><![CDATA[<article><h1>The Road to DevOps, with Jack Walser</h1><p>Join me as I query Jack Walser, of AIM Consulting, on DevOps. Before Jack spoke to the Agile Professional Learning Network (APLN – Chicago) in June, I didn’t have a great idea of what DevOps, in the Agile space, really was.</p></article>]]></description>
+            <description><![CDATA[<article><h1>The Road to DevOps, with Jack Walser</h1><p>Join me as I query Jack Walser, of AIM Consulting, on DevOps. Before Jack spoke to the Agile Professional Learning Network (APLN – Chicago) in June, I didn’t have a great idea of what DevOps, in the Agile space, really was.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98276f6b-805b-44f1-af86-0d36a7916e1e.png"></article>]]></description>
             <link>http://agilechicagostyle.com/the-road-to-devops-with-jack-walser/index.html</link>
             <guid isPermaLink="false">dbbfc550-7b19-4564-95c2-1987a1a67a88</guid>
-            <pubDate>Wed, 12 Oct 2016 13:23:56 GMT</pubDate>
+            <pubDate>Wed, 12 Oct 2016 13:28:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
