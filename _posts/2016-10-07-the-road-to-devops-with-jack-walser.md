@@ -1,15 +1,14 @@
 ---
-datePublished: '2016-10-12T13:53:02.342Z'
+datePublished: '2016-10-12T13:58:19.250Z'
 sourcePath: _posts/2016-10-07-the-road-to-devops-with-jack-walser.md
 inFeed: true
 hasPage: true
-author: []
+author:
+  - name: thinkingmonster
 via: {}
-dateModified: '2016-10-12T13:53:01.662Z'
+dateModified: '2016-10-12T13:58:18.913Z'
 title: The Road to DevOps
-publisher:
-  name: thinkingmonster
-  url: 'https://thinkingmonster.files.wordpress.com/2015/08/devops.jpeg'
+publisher: {}
 description: >-
   Join me as I query Jack Walser, of AIM Consulting, on DevOps. Before Jack
   spoke to the Agile Professional Learning Network (APLN – Chicago) in June, I
