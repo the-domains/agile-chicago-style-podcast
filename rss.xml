@@ -4,9 +4,9 @@
         <description><![CDATA[Agile Chicago Style Podcast]]></description>
         <link>http://agilechicagostyle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 12 Oct 2016 14:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2016 14:18:18 GMT</lastBuildDate>
         <atom:link href="http://agilechicagostyle.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Oct 2016 14:05:14 GMT</pubDate>
+        <pubDate>Wed, 12 Oct 2016 14:18:12 GMT</pubDate>
         <item>
             <title><![CDATA[A True Agile Transformation]]></title>
             <description><![CDATA[<article><h1>A True Agile Transformation</h1><p>If you’ve been around Chicago long enough, at least in the Agile community, you would know that the company currently known as HERE (formerly NAVTEQ and then Nokia) has a great reputation for being an Agile organization through and through. The truth is, the Agile movement there started as an experiment – as most things in Agile should.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07bbcf6a34e20cd2f90a008ba9d946725e47452c.jpg"></article>]]></description>
@@ -48,6 +48,13 @@
             <link>http://agilechicagostyle.com/the-road-to-devops-with-jack-walser/index.html</link>
             <guid isPermaLink="false">dbbfc550-7b19-4564-95c2-1987a1a67a88</guid>
             <pubDate>Wed, 12 Oct 2016 14:03:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Discussing the State of Scrum]]></title>
+            <description><![CDATA[<article><h1>Discussing the State of Scrum</h1><h2>with Maria Matarelli and Aakash Srinivasan</h2><p>In July 2015, Maria Matarelli and Harvey Wheaton presented the results of Scrum Alliance’s State of Scrum 2015 survey. The survey returned 4400+ responses that led to some very interesting results.</p></article>]]></description>
+            <link>http://agilechicagostyle.com/discussing-the-state-of-scrum-with-maria-matarelli-and-aak/index.html</link>
+            <guid isPermaLink="false">10f6e35b-0c20-4acc-b685-02738df1fa82</guid>
+            <pubDate>Wed, 12 Oct 2016 14:18:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
