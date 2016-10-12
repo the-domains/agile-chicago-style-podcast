@@ -1,5 +1,6 @@
-layout_spectrum: 0.05081394051229305
 typography_spectrum: 0.05642386257491711
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#ffffff'
@@ -11,19 +12,18 @@ color:
   lightness: 0.007390777702618501
   saturation: 0.22646374401599537
   rhythmicContrast: 0.44876460932794554
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.05081394051229305
 analytics:
   google: null
   facebook: null
   twitter: null
 author:
-  name: Rick Waters
+  name: 'Rick Waters, Matt Beam'
   email: AgileChicagoStyle@gmail.com
   url: 'http://agilechicagostyle.com'
 logo: >-
