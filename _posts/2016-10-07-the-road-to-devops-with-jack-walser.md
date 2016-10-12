@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T13:28:04.490Z'
+datePublished: '2016-10-12T13:36:48.845Z'
 sourcePath: _posts/2016-10-07-the-road-to-devops-with-jack-walser.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T13:28:03.907Z'
+dateModified: '2016-10-12T13:36:48.182Z'
 title: 'The Road to DevOps, with Jack Walser'
 publisher:
   name: tel.red
@@ -19,11 +19,11 @@ _type: Article
 
 ---
 # The Road to DevOps, with Jack Walser
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98276f6b-805b-44f1-af86-0d36a7916e1e.png)
 
 Join me as I query [Jack Walser][0], of AIM Consulting, on DevOps. Before Jack spoke to the [Agile Professional Learning Network][1] ([APLN -- Chicago][2]) in June, I didn't have a great idea of what DevOps, in the Agile space, really was.
 
 Jack breaks down the components of a DevOps environment needed to succeed.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21fe74ce-14da-4448-a8ba-fb9b09eda718.jpg)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlUMtuwzAM-xXDwI6psg3ttqLprwx-qI1QWQpsB1n29XPaW3ejSIGkdKJLdglNqSvjYL3miPloRAWtKTkMFmCsiffdxG7FvGPyZZVd0ASYPEbAiYpGBIrw_tUf9p8fMCJdxwpvfQ8LxTrCoaE6YkIo1Ul0OXaJhMDNtQX9VBBt-py8OGJYsdyVLXFTpoysLm5Q9NvF5khlmyJlDJVUwLtwW5ptY7vgwohQ84xgzaPKYFsXa-5lBvva9y_tuJCVmeQ6WFFrjGPW5TIzNwFRzIL-RvWZTfr7TOm_nfLEnE_wePP5D8vohWE" height="200" style=""></iframe>
 
