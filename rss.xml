@@ -4,14 +4,22 @@
         <description><![CDATA[Agile Chicago Style Podcast]]></description>
         <link>http://agilechicagostyle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 12 Oct 2016 13:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2016 13:16:21 GMT</lastBuildDate>
         <atom:link href="http://agilechicagostyle.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 12 Oct 2016 13:16:19 GMT</pubDate>
         <item>
             <title><![CDATA[A True Agile Transformation]]></title>
             <description><![CDATA[<article><h1>A True Agile Transformation</h1><p>If you’ve been around Chicago long enough, at least in the Agile community, you would know that the company currently known as HERE (formerly NAVTEQ and then Nokia) has a great reputation for being an Agile organization through and through. The truth is, the Agile movement there started as an experiment – as most things in Agile should.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07bbcf6a34e20cd2f90a008ba9d946725e47452c.jpg"></article>]]></description>
             <link>http://agilechicagostyle.com/a-true-agile-transformation/index.html</link>
             <guid isPermaLink="false">9940140a-fe74-4517-8150-ecd2144aa415</guid>
             <pubDate>Wed, 12 Oct 2016 13:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Being Agile or Doing Agile, with Tom Mellor]]></title>
+            <description><![CDATA[<article><h1>Being Agile or Doing Agile, with Tom Mellor</h1><p>The ever-controversial Tom Mellor discusses the differences between ‘Being Agile’ and ‘Doing Agile.’ Tom talks quite a bit about Frederic Laloux’s organizational paradigms (categorized by a color spectrum), and gets us started down a road that leads to differences in what we are taught about the basic elements of Scrum – or at least what we thought we were taught.</p></article>]]></description>
+            <link>http://agilechicagostyle.com/being-agile-or-doing-agile-with-tom-mellor/index.html</link>
+            <guid isPermaLink="false">e14cb3f2-d97d-4fa2-8b7e-e9408095780d</guid>
+            <pubDate>Wed, 12 Oct 2016 13:16:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
