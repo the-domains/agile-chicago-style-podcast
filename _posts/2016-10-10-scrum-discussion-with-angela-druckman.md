@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-12T13:53:50.802Z'
+datePublished: '2016-10-12T14:25:17.549Z'
 sourcePath: _posts/2016-10-10-scrum-discussion-with-angela-druckman.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T13:53:50.343Z'
-title: 'Scrum Discussion '
+dateModified: '2016-10-12T14:25:16.925Z'
+title: Scrum Discussion
 publisher: {}
 description: >-
   I sat down with Angela Druckman (CST) last week and discussed a few topics
@@ -17,10 +17,10 @@ description: >-
   course that she plans on offering for the first time, this Spring.
 starred: false
 url: scrum-discussion-with-angela-druckman/index.html
-_type: Blurb
+_type: Article
 
 ---
-# Scrum Discussion 
+# Scrum Discussion
 
 ## with Angela Druckman
 
