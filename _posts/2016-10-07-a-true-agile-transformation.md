@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-11T12:56:24.969Z'
+datePublished: '2016-10-12T13:15:37.362Z'
 sourcePath: _posts/2016-10-07-a-true-agile-transformation.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-11T12:56:24.738Z'
+dateModified: '2016-10-12T13:15:36.882Z'
 title: A True Agile Transformation
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ description: >-
   most things in Agile should.
 starred: true
 url: a-true-agile-transformation/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # A True Agile Transformation
