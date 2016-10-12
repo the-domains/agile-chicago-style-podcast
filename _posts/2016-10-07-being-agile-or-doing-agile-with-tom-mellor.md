@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-12T13:16:19.514Z'
+datePublished: '2016-10-12T13:52:33.193Z'
 sourcePath: _posts/2016-10-07-being-agile-or-doing-agile-with-tom-mellor.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T13:16:18.934Z'
-title: 'Being Agile or Doing Agile, with Tom Mellor'
+dateModified: '2016-10-12T13:52:32.837Z'
+title: Being Agile or Doing Agile
 publisher: {}
 description: >-
   The ever-controversial Tom Mellor discusses the differences between ‘Being
@@ -19,7 +19,9 @@ url: being-agile-or-doing-agile-with-tom-mellor/index.html
 _type: Article
 
 ---
-# Being Agile or Doing Agile, with Tom Mellor
+# Being Agile or Doing Agile
+
+## with Tom Mellor
 
 The ever-controversial Tom Mellor discusses the differences between 'Being Agile' and 'Doing Agile.' Tom talks quite a bit about Frederic Laloux's organizational paradigms (categorized by a color spectrum), and gets us started down a road that leads to differences in what we are taught about the basic elements of Scrum -- or at least what we thought we were taught.
 
