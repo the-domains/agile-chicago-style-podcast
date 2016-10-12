@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T13:53:31.546Z'
+datePublished: '2016-10-12T14:24:41.228Z'
 sourcePath: _posts/2016-10-10-agile-from-theory-into-practice-for-social-good.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T13:53:30.887Z'
+dateModified: '2016-10-12T14:24:40.590Z'
 title: 'Agile: From Theory into Practice for Social Good'
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ description: >-
   Product Owner of/for her non-profit organization.
 starred: false
 url: agile-from-theory-into-practice-for-social-good/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Agile: From Theory into Practice for Social Good
