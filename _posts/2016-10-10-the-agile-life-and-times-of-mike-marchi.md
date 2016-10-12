@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-10T16:25:10.654Z'
+datePublished: '2016-10-12T14:24:12.076Z'
 sourcePath: _posts/2016-10-10-the-agile-life-and-times-of-mike-marchi.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-10T16:25:09.740Z'
+dateModified: '2016-10-12T14:24:11.437Z'
 title: The Agile Life and Times of Mike Marchi
 publisher: {}
 description: >-
