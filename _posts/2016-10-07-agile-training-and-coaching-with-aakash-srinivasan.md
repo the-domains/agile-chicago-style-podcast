@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T14:21:05.219Z'
+datePublished: '2016-10-12T14:21:13.348Z'
 sourcePath: _posts/2016-10-07-agile-training-and-coaching-with-aakash-srinivasan.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:21:04.531Z'
+dateModified: '2016-10-12T14:21:12.482Z'
 title: Agile Training and Coaching
 publisher: {}
 description: >-
@@ -14,7 +14,7 @@ description: >-
   I sat down last month and talked about a great range of topics.
 starred: false
 url: agile-training-and-coaching-with-aakash-srinivasan/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Agile Training and Coaching
