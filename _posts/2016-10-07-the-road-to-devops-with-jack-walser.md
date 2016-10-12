@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T13:23:46.658Z'
+datePublished: '2016-10-12T13:23:56.842Z'
 sourcePath: _posts/2016-10-07-the-road-to-devops-with-jack-walser.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T13:23:45.951Z'
+dateModified: '2016-10-12T13:23:56.201Z'
 title: 'The Road to DevOps, with Jack Walser'
 publisher: {}
 description: >-
@@ -14,7 +14,7 @@ description: >-
   didn’t have a great idea of what DevOps, in the Agile space, really was.
 starred: false
 url: the-road-to-devops-with-jack-walser/index.html
-_type: Blurb
+_type: Article
 
 ---
 # The Road to DevOps, with Jack Walser
