@@ -4,9 +4,9 @@
         <description><![CDATA[Agile Chicago Style Podcast]]></description>
         <link>http://agilechicagostyle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 12 Oct 2016 14:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2016 14:21:51 GMT</lastBuildDate>
         <atom:link href="http://agilechicagostyle.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Oct 2016 14:20:47 GMT</pubDate>
+        <pubDate>Wed, 12 Oct 2016 14:21:13 GMT</pubDate>
         <item>
             <title><![CDATA[A True Agile Transformation]]></title>
             <description><![CDATA[<article><h1>A True Agile Transformation</h1><p>If you’ve been around Chicago long enough, at least in the Agile community, you would know that the company currently known as HERE (formerly NAVTEQ and then Nokia) has a great reputation for being an Agile organization through and through. The truth is, the Agile movement there started as an experiment – as most things in Agile should.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07bbcf6a34e20cd2f90a008ba9d946725e47452c.jpg"></article>]]></description>
@@ -69,6 +69,13 @@
             <link>http://agilechicagostyle.com/dont-scrum-undone-with-angela-johnson/index.html</link>
             <guid isPermaLink="false">020709d8-2edc-4d47-a720-aa01d1034fbd</guid>
             <pubDate>Wed, 12 Oct 2016 14:20:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Agile Training and Coaching]]></title>
+            <description><![CDATA[<article><h1>Agile Training and Coaching</h1><h2>with Aakash Srinivasan</h2><p>Aakash Srinivasan is an Agile Coach and Trainer, in the Washington DC area, who speaks quite often at Agile events, conferences and Gatherings. Aakash and I sat down last month and talked about a great range of topics.</p></article>]]></description>
+            <link>http://agilechicagostyle.com/agile-training-and-coaching-with-aakash-srinivasan/index.html</link>
+            <guid isPermaLink="false">4be9e3d4-7fee-45df-b1ae-5d8967adb0ad</guid>
+            <pubDate>Wed, 12 Oct 2016 14:21:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
