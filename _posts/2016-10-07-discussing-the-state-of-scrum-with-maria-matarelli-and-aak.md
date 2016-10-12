@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-12T14:10:51.183Z'
+datePublished: '2016-10-12T14:17:59.834Z'
 sourcePath: >-
   _posts/2016-10-07-discussing-the-state-of-scrum-with-maria-matarelli-and-aak.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:10:50.560Z'
+dateModified: '2016-10-12T14:17:59.092Z'
 title: Discussing the State of Scrum
 publisher: {}
 description: >-
