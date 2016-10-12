@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-10-07T14:36:16.728Z'
+datePublished: '2016-10-12T14:10:51.183Z'
 sourcePath: >-
   _posts/2016-10-07-discussing-the-state-of-scrum-with-maria-matarelli-and-aak.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-07T14:36:15.818Z'
-title: Discussing the State of Scrum – with Maria Matarelli and Aakash Srinivasan
+dateModified: '2016-10-12T14:10:50.560Z'
+title: Discussing the State of Scrum
 publisher: {}
 description: >-
   In July 2015, Maria Matarelli and Harvey Wheaton presented the results of
@@ -18,15 +18,17 @@ url: discussing-the-state-of-scrum-with-maria-matarelli-and-aak/index.html
 _type: Blurb
 
 ---
-# Discussing the State of Scrum -- with Maria Matarelli and Aakash Srinivasan
+# Discussing the State of Scrum
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkEtuwzAMRK8iaO8wbRoXKOJcpdCHiYlQpCHJcN3TV0527m44jxgOeKFbdglNqSvjYL3miPnLiApaU3IYLMBYE5-7id2K-cDkyyqHoAkweYyAExWNCBTh9Hn6eOvPMCLdxwrvxyMsFOsIfVN1xIRQqpPocuwSCYGbazv0U0G08Tl5ccSwYnmS7eJGpoysLm5S9NvFlkhlmyJlDJVUwLvwWFpsc7vgwohQ84xgzavKYFsXa55lBttvuoSszCT3wYpaYxyzLreZuQFEMQv6B9W9m_R3b-m_nbJzrhd4ffn6B1wChTg" height="244" style=""></iframe>
+## with Maria Matarelli and Aakash Srinivasan
 
 In July 2015, Maria Matarelli and Harvey Wheaton presented the results of Scrum Alliance's State of Scrum 2015 survey. The survey returned 4400+ responses that led to some very interesting results.
 
-<article style=""><h1>Agile Chicago Style Podcast : Discussing the State of Scrum</h1><p>Maria Matarelli is a Certified Scrum Trainer (CST) and experienced Agile coach who travels the world helping people discover better ways to work. As president of Formula Ink, Maria travels to consult with businesses and speak at conferences around the world from Vancouver to Morocco, Sweden to New York, Hawaii to Istanbul.</p><img src="https://agilechicagostyle.files.wordpress.com/2015/08/1439491385_google.png" /></article>
-
 I was able to get Maria and Aakash Srinivasan (both veterans of this podcast) to discuss some of the more interesting analysis of these results.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkEtuwzAMRK8iaO8wbRoXKOJcpdCHiYlQpCHJcN3TV0527m44jxgOeKFbdglNqSvjYL3miPnLiApaU3IYLMBYE5-7id2K-cDkyyqHoAkweYyAExWNCBTh9Hn6eOvPMCLdxwrvxyMsFOsIfVN1xIRQqpPocuwSCYGbazv0U0G08Tl5ccSwYnmS7eJGpoysLm5S9NvFlkhlmyJlDJVUwLvwWFpsc7vgwohQ84xgzavKYFsXa55lBttvuoSszCT3wYpaYxyzLreZuQFEMQv6B9W9m_R3b-m_nbJzrhd4ffn6B1wChTg" height="244" style=""></iframe>
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9339418eae28412c5e27408863f68823/noop.png?input=https%3A%2F%2Fagilechicagostyle.files.wordpress.com%2F2015%2F08%2F1439491385_google.png" /><h1>Agile Chicago Style Podcast : Discussing the State of Scrum</h1><p>Maria Matarelli is a Certified Scrum Trainer (CST) and experienced Agile coach who travels the world helping people discover better ways to work. As president of Formula Ink, Maria travels to consult with businesses and speak at conferences around the world from Vancouver to Morocco, Sweden to New York, Hawaii to Istanbul.</p></article>
 
 [Scrum Alliance State of Scrum Report (2015)][0]
 
