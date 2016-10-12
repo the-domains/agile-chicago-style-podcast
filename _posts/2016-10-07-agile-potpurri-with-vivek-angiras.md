@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-10T13:27:49.427Z'
+datePublished: '2016-10-12T13:55:23.988Z'
 sourcePath: _posts/2016-10-07-agile-potpurri-with-vivek-angiras.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-08T01:52:09.053Z'
-title: 'Agile Potpourri, with Vivek Angiras'
+dateModified: '2016-10-12T13:55:23.382Z'
+title: Agile Potpourri
 publisher: {}
 description: >-
   Vivek and Rick discuss many different topics in this conversation ranging from
@@ -18,7 +18,9 @@ url: agile-potpurri-with-vivek-angiras/index.html
 _type: Blurb
 
 ---
-# Agile Potpourri, with Vivek Angiras
+# Agile Potpourri
+
+## with Vivek Angiras
 
 [Vivek][0] and Rick discuss many different topics in this conversation ranging from Governance to Training certification, Agile industry diversity to Release Planning, etc. We briefly touch on our career goals of CST and CSC, and where we are at in our journeys.
 
