@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-08T01:42:56.400Z'
+datePublished: '2016-10-12T13:16:07.735Z'
 sourcePath: _posts/2016-10-07-being-agile-or-doing-agile-with-tom-mellor.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-08T01:42:45.495Z'
+dateModified: '2016-10-12T13:16:06.809Z'
 title: 'Being Agile or Doing Agile, with Tom Mellor'
 publisher: {}
 description: >-
