@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-10T16:24:08.430Z'
+datePublished: '2016-10-12T13:53:31.546Z'
 sourcePath: _posts/2016-10-10-agile-from-theory-into-practice-for-social-good.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-10T16:24:00.689Z'
+dateModified: '2016-10-12T13:53:30.887Z'
 title: 'Agile: From Theory into Practice for Social Good'
 publisher: {}
 description: >-
@@ -20,11 +20,13 @@ _type: Blurb
 ---
 # Agile: From Theory into Practice for Social Good
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlUMtuwzAM-xXDwI6p0m3dC01_ZfBDbYTKUmA7yLKvn9PeuhtFCiSlI52zS2hKXRkH6zVHzF9GVNCaksNgAcaa-NBN7FbMOyZfVtkFTYDJYwScqGhEoAgv-8P75-sHjEiXscJz38NCsY7w1lAdMSGU6iS6HLtEQuDm2oJ-Kog2fU5eHDGsWG7KlrgpU0ZWFzco-u1ic6SyTZEyhkoq4F24Ls22sV1wYUSoeUaw5l5lsK2LNbcyg933_VM7LmRlJrkMVtQa45h1Oc_MTUAUs6C_Un1kk_4-UvpvpzwwpyPc33z6A8q_hWA" height="200" style=""></iframe>
+## with Maria Matarelli
 
 Maria Matarelli, president of [Formula Ink][0], Certified Scrum Trainer (CST), and author, talks with me about her experience in a recent CSM class where she brought in Suzanne Oliver, of Heart of a Fighter, to act as a real-life Product Owner of/for her non-profit organization.
 
 Maria's idea to have the CSM class focus on a real non-IT organization to help them realize their goals, yielded some very interesting results. Listen to our conversation to learn more.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlUMtuwzAM-xXDwI6p0m3dC01_ZfBDbYTKUmA7yLKvn9PeuhtFCiSlI52zS2hKXRkH6zVHzF9GVNCaksNgAcaa-NBN7FbMOyZfVtkFTYDJYwScqGhEoAgv-8P75-sHjEiXscJz38NCsY7w1lAdMSGU6iS6HLtEQuDm2oJ-Kog2fU5eHDGsWG7KlrgpU0ZWFzco-u1ic6SyTZEyhkoq4F24Ls22sV1wYUSoeUaw5l5lsK2LNbcyg933_VM7LmRlJrkMVtQa45h1Oc_MTUAUs6C_Un1kk_4-UvpvpzwwpyPc33z6A8q_hWA" height="200" style=""></iframe>
 
 Mentioned in this episode:  
 Maria Matarelli, from [Formula Ink][1]  
