@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-12T13:16:44.273Z'
+datePublished: '2016-10-12T13:16:53.401Z'
 sourcePath: >-
   _posts/2016-10-07-talking-csd-with-chet-hendrickson-ron-jeffries-and-brian-le.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T13:16:43.913Z'
+dateModified: '2016-10-12T13:16:52.916Z'
 title: 'Talking CSD with Chet Hendrickson, Ron Jeffries and Brian Levy'
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ description: >-
   Chicago for the week of 14-18 March, 2016.
 starred: false
 url: talking-csd-with-chet-hendrickson-ron-jeffries-and-brian-le/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Talking CSD with Chet Hendrickson, Ron Jeffries and Brian Levy
