@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-12T13:16:53.401Z'
+datePublished: '2016-10-12T13:20:34.448Z'
 sourcePath: >-
   _posts/2016-10-07-talking-csd-with-chet-hendrickson-ron-jeffries-and-brian-le.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T13:16:52.916Z'
+dateModified: '2016-10-12T13:20:33.723Z'
 title: 'Talking CSD with Chet Hendrickson, Ron Jeffries and Brian Levy'
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ _type: Article
 
 ---
 # Talking CSD with Chet Hendrickson, Ron Jeffries and Brian Levy
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cb9ff98-a593-4d77-9348-792344d86ac3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0742304-a4ee-44b1-8680-2be57103948a.png)
 
 I recently got the most wonderful opportunity to talk with a couple of legends in the Agile Community -- Chet Hendrickson and Ron Jeffries! They're partnering with Brian Levy to bring a 5-Day, dual certification, public CSD class to Chicago for the week of 14-18 March, 2016\.
 
