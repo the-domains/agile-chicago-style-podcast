@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-12T14:17:59.834Z'
+datePublished: '2016-10-12T14:18:12.169Z'
 sourcePath: >-
   _posts/2016-10-07-discussing-the-state-of-scrum-with-maria-matarelli-and-aak.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:17:59.092Z'
+dateModified: '2016-10-12T14:18:11.397Z'
 title: Discussing the State of Scrum
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ description: >-
   responses that led to some very interesting results.
 starred: false
 url: discussing-the-state-of-scrum-with-maria-matarelli-and-aak/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Discussing the State of Scrum
@@ -28,7 +28,7 @@ I was able to get Maria and Aakash Srinivasan (both veterans of this podcast) to
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkEtuwzAMRK8iaO8wbRoXKOJcpdCHiYlQpCHJcN3TV0527m44jxgOeKFbdglNqSvjYL3miPnLiApaU3IYLMBYE5-7id2K-cDkyyqHoAkweYyAExWNCBTh9Hn6eOvPMCLdxwrvxyMsFOsIfVN1xIRQqpPocuwSCYGbazv0U0G08Tl5ccSwYnmS7eJGpoysLm5S9NvFlkhlmyJlDJVUwLvwWFpsc7vgwohQ84xgzavKYFsXa55lBttvuoSszCT3wYpaYxyzLreZuQFEMQv6B9W9m_R3b-m_nbJzrhd4ffn6B1wChTg" height="244" style=""></iframe>
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9339418eae28412c5e27408863f68823/noop.png?input=https%3A%2F%2Fagilechicagostyle.files.wordpress.com%2F2015%2F08%2F1439491385_google.png" /><h1>Agile Chicago Style Podcast : Discussing the State of Scrum</h1><p>Maria Matarelli is a Certified Scrum Trainer (CST) and experienced Agile coach who travels the world helping people discover better ways to work. As president of Formula Ink, Maria travels to consult with businesses and speak at conferences around the world from Vancouver to Morocco, Sweden to New York, Hawaii to Istanbul.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83b15453757db9c823329877190ef6618d71d9d0.png" /><h1>Agile Chicago Style Podcast : Discussing the State of Scrum</h1><p>Maria Matarelli is a Certified Scrum Trainer (CST) and experienced Agile coach who travels the world helping people discover better ways to work. As president of Formula Ink, Maria travels to consult with businesses and speak at conferences around the world from Vancouver to Morocco, Sweden to New York, Hawaii to Istanbul.</p></article>
 
 [Scrum Alliance State of Scrum Report (2015)][0]
 
