@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-12T13:39:53.180Z'
+datePublished: '2016-10-12T13:53:02.342Z'
 sourcePath: _posts/2016-10-07-the-road-to-devops-with-jack-walser.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T13:39:52.654Z'
-title: 'The Road to DevOps, with Jack Walser'
+dateModified: '2016-10-12T13:53:01.662Z'
+title: The Road to DevOps
 publisher:
   name: thinkingmonster
   url: 'https://thinkingmonster.files.wordpress.com/2015/08/devops.jpeg'
@@ -19,7 +19,9 @@ url: the-road-to-devops-with-jack-walser/index.html
 _type: Article
 
 ---
-# The Road to DevOps, with Jack Walser
+# The Road to DevOps
+
+## with Jack Walser
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21fe74ce-14da-4448-a8ba-fb9b09eda718.jpg)
 
 Join me as I query [Jack Walser][0], of AIM Consulting, on DevOps. Before Jack spoke to the [Agile Professional Learning Network][1] ([APLN -- Chicago][2]) in June, I didn't have a great idea of what DevOps, in the Agile space, really was.
