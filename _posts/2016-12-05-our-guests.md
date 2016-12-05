@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T15:13:49.821Z'
+datePublished: '2016-12-05T15:14:08.909Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-05T15:02:51.913Z'
-dateModified: '2016-12-05T15:13:49.357Z'
+dateModified: '2016-12-05T15:14:08.237Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -43,6 +43,18 @@ Aakash Srinivasan
 ---
 
 Tom Mellor
+
+---
+
+Chet Hendrickson
+
+---
+
+Ron Jeffries
+
+---
+
+
 
 [0]: http://aplnchicago.org/
 [1]: http://michaelmarchi.com/
