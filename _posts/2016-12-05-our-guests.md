@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-05T14:42:35.835Z'
+datePublished: '2016-12-05T14:44:09.705Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-05T14:42:35.835Z'
-dateModified: '2016-12-05T14:42:17.475Z'
+dateModified: '2016-12-05T14:44:09.344Z'
 title: Our Guests
 publisher: {}
 description: Mike Marchi
-starred: false
 sourcePath: _posts/2016-12-05-our-guests.md
+starred: false
 url: our-guests/index.html
 _type: MediaObject
 
