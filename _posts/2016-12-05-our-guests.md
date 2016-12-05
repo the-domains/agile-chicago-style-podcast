@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T15:15:18.239Z'
+datePublished: '2016-12-05T15:15:43.161Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-05T15:02:51.913Z'
-dateModified: '2016-12-05T15:15:17.907Z'
+dateModified: '2016-12-05T15:15:42.334Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -71,6 +71,10 @@ Jack Walser
 ---
 
 Brian Levy
+
+---
+
+Dave Sharrock
 
 ---
 
