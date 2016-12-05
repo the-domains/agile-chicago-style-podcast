@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T15:13:18.104Z'
+datePublished: '2016-12-05T15:13:20.826Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-05T15:02:51.913Z'
-dateModified: '2016-12-05T15:13:17.450Z'
+dateModified: '2016-12-05T15:13:20.393Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -35,6 +35,10 @@ Blog: [http://michaelmarchi.com][1]
 ---
 
 Maria Matarelli
+
+---
+
+
 
 [0]: http://aplnchicago.org/
 [1]: http://michaelmarchi.com/
