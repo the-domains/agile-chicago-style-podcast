@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T15:13:36.939Z'
+datePublished: '2016-12-05T15:13:49.821Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-05T15:02:51.913Z'
-dateModified: '2016-12-05T15:13:36.410Z'
+dateModified: '2016-12-05T15:13:49.357Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -42,7 +42,7 @@ Aakash Srinivasan
 
 ---
 
-
+Tom Mellor
 
 [0]: http://aplnchicago.org/
 [1]: http://michaelmarchi.com/
