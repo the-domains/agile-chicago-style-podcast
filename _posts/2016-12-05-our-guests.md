@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T15:16:08.385Z'
+datePublished: '2016-12-05T15:16:28.918Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-05T15:02:51.913Z'
-dateModified: '2016-12-05T15:16:03.317Z'
+dateModified: '2016-12-05T15:16:28.298Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -83,10 +83,6 @@ Allen Rutzen
 ---
 
 Jorgen Hesselberg
-
----
-
-
 
 [0]: http://aplnchicago.org/
 [1]: http://michaelmarchi.com/
