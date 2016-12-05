@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T15:14:47.319Z'
+datePublished: '2016-12-05T15:14:51.199Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-05T15:02:51.913Z'
-dateModified: '2016-12-05T15:14:46.496Z'
+dateModified: '2016-12-05T15:14:50.696Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -63,6 +63,10 @@ Angela Johnson
 ---
 
 Angela Druckman
+
+---
+
+
 
 [0]: http://aplnchicago.org/
 [1]: http://michaelmarchi.com/
