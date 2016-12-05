@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T15:14:08.909Z'
+datePublished: '2016-12-05T15:14:47.319Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-05T15:02:51.913Z'
-dateModified: '2016-12-05T15:14:08.237Z'
+dateModified: '2016-12-05T15:14:46.496Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -54,7 +54,15 @@ Ron Jeffries
 
 ---
 
+Vivek Angiras
 
+---
+
+Angela Johnson
+
+---
+
+Angela Druckman
 
 [0]: http://aplnchicago.org/
 [1]: http://michaelmarchi.com/
