@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T15:13:20.826Z'
+datePublished: '2016-12-05T15:13:36.939Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-05T15:02:51.913Z'
-dateModified: '2016-12-05T15:13:20.393Z'
+dateModified: '2016-12-05T15:13:36.410Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -35,6 +35,10 @@ Blog: [http://michaelmarchi.com][1]
 ---
 
 Maria Matarelli
+
+---
+
+Aakash Srinivasan
 
 ---
 
