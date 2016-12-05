@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T15:08:04.379Z'
+datePublished: '2016-12-05T15:08:12.450Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-05T15:02:51.913Z'
-dateModified: '2016-12-05T15:08:03.788Z'
+dateModified: '2016-12-05T15:08:11.451Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -25,8 +25,6 @@ We carefully select the guests on the podcast. If they are not practicing Agile 
 ---
 
 ![Mike is a Board Member, and co-Founder, of the Agile Professional Learning Network - Chicago.  As a very experienced eXtreme Programming developer with a long history of Scrum, Mike makes a tremendously valuable Agile Coach from Strive Consulting in Chicago.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6b9dbac-87c5-4e05-8a52-7cdc8b13cdb7.jpg)
-
-Mike Marchi
 
 **Michael Marchi** - Over a decade ago, Michael turned a quest for project sanity and predictability into a journey that transformed his career. He learned about Agile through the application of XP and Scrum, was asked to develop a training curriculum to share his experiences, and travelled the globe teaching engineer and test teams to follow the Agile path. He is one of the founders of the **Agile Professional Learning Network** of Chicago (_[aplnchicago.org][0]_), a professional meetup group that serves the Chicago Northwest suburbs. He currently works as Delivery Leadership Manager for **Strive Consulting** where he brings form to Strive's ever-expanding Agile service offerings. Twitter: @michaelmarchi Blog: [http://michaelmarchi.com][1]
 
