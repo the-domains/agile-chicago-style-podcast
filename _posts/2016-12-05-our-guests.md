@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-05T15:10:08.273Z'
+datePublished: '2016-12-05T15:12:26.010Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-05T15:02:51.913Z'
-dateModified: '2016-12-05T15:10:07.826Z'
+dateModified: '2016-12-05T15:12:25.687Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -31,6 +31,10 @@ We carefully select the guests on the podcast. If they are not practicing Agile 
 Twitter: @michaelmarchi
 
 Blog: [http://michaelmarchi.com][1]
+
+---
+
+
 
 [0]: http://aplnchicago.org/
 [1]: http://michaelmarchi.com/
