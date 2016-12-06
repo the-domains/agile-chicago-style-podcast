@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-12T14:18:12.169Z'
+datePublished: '2016-12-06T13:02:37.433Z'
 sourcePath: >-
   _posts/2016-10-07-discussing-the-state-of-scrum-with-maria-matarelli-and-aak.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:18:11.397Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: Discussing the State of Scrum
 publisher: {}
 description: >-
@@ -14,6 +14,7 @@ description: >-
   Scrum Alliance’s State of Scrum 2015 survey. The survey returned 4400+
   responses that led to some very interesting results.
 starred: false
+datePublishedOriginal: '2016-10-12T14:18:12.169Z'
 url: discussing-the-state-of-scrum-with-maria-matarelli-and-aak/index.html
 _type: Article
 
