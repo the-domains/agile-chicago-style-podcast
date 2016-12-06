@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T14:05:13.879Z'
+datePublished: '2016-12-06T13:02:37.324Z'
 sourcePath: _posts/2016-10-07-a-true-agile-transformation.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:05:13.339Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: A True Agile Transformation
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   through. The truth is, the Agile movement there started as an experiment – as
   most things in Agile should.
 starred: true
+datePublishedOriginal: '2016-10-12T14:05:13.879Z'
 url: a-true-agile-transformation/index.html
 _type: Article
 
