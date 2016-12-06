@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-06T12:56:39.110Z'
+datePublished: '2016-12-06T12:56:58.122Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-06T12:56:38.646Z'
+dateModified: '2016-12-06T12:56:57.619Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -23,8 +23,6 @@ _type: MediaObject
 We carefully select the guests on the podcast. If they are not practicing Agile in some way, in Chicago or the outlying areas, they are frequent visitors to the area and have interesting ideas to spread.
 
 ---
-
-    
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6b9dbac-87c5-4e05-8a52-7cdc8b13cdb7.jpg)
 
