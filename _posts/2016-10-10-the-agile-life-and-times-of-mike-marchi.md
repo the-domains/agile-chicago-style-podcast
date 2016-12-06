@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T14:24:20.906Z'
+datePublished: '2016-12-06T13:02:37.373Z'
 sourcePath: _posts/2016-10-10-the-agile-life-and-times-of-mike-marchi.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:24:20.511Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: The Agile Life and Times of Mike Marchi
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
   great examples of real-life Scrum success stories, and a few funny stories
   too.
 starred: false
+datePublishedOriginal: '2016-10-12T14:24:20.906Z'
 url: the-agile-life-and-times-of-mike-marchi/index.html
 _type: Article
 
