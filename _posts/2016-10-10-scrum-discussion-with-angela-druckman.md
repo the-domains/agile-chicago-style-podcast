@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T14:25:17.549Z'
+datePublished: '2016-12-06T13:02:37.448Z'
 sourcePath: _posts/2016-10-10-scrum-discussion-with-angela-druckman.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:25:16.925Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: Scrum Discussion
 publisher: {}
 description: >-
@@ -16,6 +16,7 @@ description: >-
   about Agile Coaching. Her new book will be a companion to an Agile Coaching
   course that she plans on offering for the first time, this Spring.
 starred: false
+datePublishedOriginal: '2016-10-12T14:25:17.549Z'
 url: scrum-discussion-with-angela-druckman/index.html
 _type: Article
 
