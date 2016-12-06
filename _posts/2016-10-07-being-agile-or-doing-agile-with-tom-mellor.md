@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T13:52:33.193Z'
+datePublished: '2016-12-06T13:02:37.245Z'
 sourcePath: _posts/2016-10-07-being-agile-or-doing-agile-with-tom-mellor.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T13:52:32.837Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: Being Agile or Doing Agile
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   started down a road that leads to differences in what we are taught about the
   basic elements of Scrum – or at least what we thought we were taught.
 starred: false
+datePublishedOriginal: '2016-10-12T13:52:33.193Z'
 url: being-agile-or-doing-agile-with-tom-mellor/index.html
 _type: Article
 
