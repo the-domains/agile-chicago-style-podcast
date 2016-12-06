@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T14:23:55.593Z'
+datePublished: '2016-12-06T13:02:37.433Z'
 sourcePath: _posts/2016-10-07-dave-sharrock-3-stages-of-scaling-agile-organizations.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:23:55.093Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: The 3 Stages of Scaling Agile Organizations
 publisher: {}
 description: >-
@@ -20,6 +20,7 @@ description: >-
   all about making your Agile footprint bigger, ideally it’s about making it
   better (and then bigger later).
 starred: false
+datePublishedOriginal: '2016-10-12T14:23:55.593Z'
 url: dave-sharrock-3-stages-of-scaling-agile-organizations/index.html
 _type: Article
 
