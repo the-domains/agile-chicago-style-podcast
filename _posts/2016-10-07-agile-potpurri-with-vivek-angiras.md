@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T14:20:28.186Z'
+datePublished: '2016-12-06T13:02:37.246Z'
 sourcePath: _posts/2016-10-07-agile-potpurri-with-vivek-angiras.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:20:26.919Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: Agile Potpourri
 publisher: {}
 description: >-
@@ -14,6 +14,7 @@ description: >-
   Planning, etc. We briefly touch on our career goals of CST and CSC, and where
   we are at in our journeys.
 starred: false
+datePublishedOriginal: '2016-10-12T14:20:28.186Z'
 url: agile-potpurri-with-vivek-angiras/index.html
 _type: Article
 
