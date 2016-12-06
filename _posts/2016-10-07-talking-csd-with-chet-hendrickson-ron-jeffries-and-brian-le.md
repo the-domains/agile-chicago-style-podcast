@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-12T13:52:07.288Z'
+datePublished: '2016-12-06T13:02:37.390Z'
 sourcePath: >-
   _posts/2016-10-07-talking-csd-with-chet-hendrickson-ron-jeffries-and-brian-le.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T13:52:06.817Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: Talking CSD
 publisher: {}
 description: >-
@@ -15,6 +15,7 @@ description: >-
   with Brian Levy to bring a 5-Day, dual certification, public CSD class to
   Chicago for the week of 14-18 March, 2016.
 starred: false
+datePublishedOriginal: '2016-10-12T13:52:07.288Z'
 url: talking-csd-with-chet-hendrickson-ron-jeffries-and-brian-le/index.html
 _type: Article
 
