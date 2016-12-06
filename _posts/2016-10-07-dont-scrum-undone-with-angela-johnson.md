@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T14:20:47.235Z'
+datePublished: '2016-12-06T13:02:37.245Z'
 sourcePath: _posts/2016-10-07-dont-scrum-undone-with-angela-johnson.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:20:46.625Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: Don’t Scrum Undone
 publisher: {}
 description: >-
@@ -14,6 +14,7 @@ description: >-
   the list. Please give Angela’s article Are You Transforming the World of Work,
   or Confusing It? for more on these subjects.
 starred: false
+datePublishedOriginal: '2016-10-12T14:20:47.235Z'
 url: dont-scrum-undone-with-angela-johnson/index.html
 _type: Article
 
