@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-12-05T15:16:28.918Z'
+datePublished: '2016-12-06T12:56:14.771Z'
 sourcePath: _posts/2016-12-05-our-guests.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-datePublishedOriginal: '2016-12-05T15:02:51.913Z'
-dateModified: '2016-12-05T15:16:28.298Z'
+dateModified: '2016-12-06T12:56:14.322Z'
 title: Our Guests
 publisher: {}
 description: >-
@@ -14,6 +13,7 @@ description: >-
   Agile in some way, in Chicago or the outlying areas, they are frequent
   visitors to the area and have interesting ideas to spread.
 starred: false
+datePublishedOriginal: '2016-12-05T15:02:51.913Z'
 url: our-guests/index.html
 _type: MediaObject
 
