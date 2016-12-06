@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-06T13:00:58.754Z'
+datePublished: '2016-12-06T13:02:37.373Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-06T13:00:33.236Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: Agile Politics - Part 1
 publisher: {}
 description: With Mike Marchi and Sandie Behrens
+sourcePath: _posts/2016-12-06-agile-politics-part-1.md
 starred: false
 datePublishedOriginal: '2016-12-06T13:00:58.754Z'
-sourcePath: _posts/2016-12-06-agile-politics-part-1.md
 url: agile-politics-part-1/index.html
 _type: Article
 
