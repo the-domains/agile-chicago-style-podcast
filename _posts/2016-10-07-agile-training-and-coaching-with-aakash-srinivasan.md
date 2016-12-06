@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T14:21:13.348Z'
+datePublished: '2016-12-06T13:02:37.246Z'
 sourcePath: _posts/2016-10-07-agile-training-and-coaching-with-aakash-srinivasan.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:21:12.482Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: Agile Training and Coaching
 publisher: {}
 description: >-
@@ -13,6 +13,7 @@ description: >-
   who speaks quite often at Agile events, conferences and Gatherings. Aakash and
   I sat down last month and talked about a great range of topics.
 starred: false
+datePublishedOriginal: '2016-10-12T14:21:13.348Z'
 url: agile-training-and-coaching-with-aakash-srinivasan/index.html
 _type: Article
 
