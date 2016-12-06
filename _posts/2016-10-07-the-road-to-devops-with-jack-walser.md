@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-12T14:03:04.695Z'
+datePublished: '2016-12-06T13:02:37.244Z'
 sourcePath: _posts/2016-10-07-the-road-to-devops-with-jack-walser.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-12T14:03:04.299Z'
+dateModified: '2016-12-06T13:02:35.711Z'
 title: The Road to DevOps
 publisher: {}
 description: >-
@@ -13,6 +13,7 @@ description: >-
   spoke to the Agile Professional Learning Network (APLN – Chicago) in June, I
   didn’t have a great idea of what DevOps, in the Agile space, really was.
 starred: false
+datePublishedOriginal: '2016-10-12T14:03:04.695Z'
 url: the-road-to-devops-with-jack-walser/index.html
 _type: Article
 
