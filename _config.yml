@@ -37,6 +37,9 @@ navigation:
   - name: About Us
     id: 02f715be-8077-4f88-a828-8a939ccf2002
     type: content
+  - name: Agile Politics - Part 1
+    id: 600a57ad-0a9b-4754-9686-3f08f38d74b1
+    type: content
   - name: A True Agile Transformation
     id: 9940140a-fe74-4517-8150-ecd2144aa415
     type: content
@@ -81,9 +84,6 @@ navigation:
     type: content
   - name: Our Guests
     id: c08973be-b1c3-45a8-9a62-b70ed6926eac
-    type: content
-  - name: Agile Politics - Part 1
-    id: 600a57ad-0a9b-4754-9686-3f08f38d74b1
     type: content
 favicon: null
 title: Agile Chicago Style Podcast
