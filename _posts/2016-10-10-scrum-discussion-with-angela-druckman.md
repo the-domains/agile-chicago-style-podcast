@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-06T13:02:37.448Z'
+datePublished: '2016-12-13T15:54:15.353Z'
 sourcePath: _posts/2016-10-10-scrum-discussion-with-angela-druckman.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-06T13:02:35.711Z'
+dateModified: '2016-12-13T15:54:14.402Z'
 title: Scrum Discussion
 publisher: {}
 description: >-
