@@ -73,6 +73,9 @@ navigation:
   - name: Dave Sharrock – 3 Stages of Scaling Agile Organizations
     id: e45f084d-f100-4a8e-8d63-ecb14cc24ba9
     type: content
+  - name: Agile Politics - Part 2
+    id: 06e62a6a-4bb7-4199-b204-895f21c5904e
+    type: content
   - name: The Agile Life and Times of Mike Marchi
     id: f6c221a4-3d51-4e52-a9d6-9454d1ce9c58
     type: content
@@ -84,9 +87,6 @@ navigation:
     type: content
   - name: Our Guests
     id: c08973be-b1c3-45a8-9a62-b70ed6926eac
-    type: content
-  - name: Agile Politics - Part 2
-    id: 06e62a6a-4bb7-4199-b204-895f21c5904e
     type: content
 favicon: null
 title: Agile Chicago Style Podcast
