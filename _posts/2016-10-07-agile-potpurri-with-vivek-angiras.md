@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-06T13:02:37.246Z'
+datePublished: '2016-12-13T15:54:15.335Z'
 sourcePath: _posts/2016-10-07-agile-potpurri-with-vivek-angiras.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-06T13:02:35.711Z'
+dateModified: '2016-12-13T15:54:14.402Z'
 title: Agile Potpourri
 publisher: {}
 description: >-
