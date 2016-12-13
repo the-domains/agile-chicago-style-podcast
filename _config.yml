@@ -64,6 +64,9 @@ navigation:
   - name: 'Agile Training and Coaching, with Aakash Srinivasan'
     id: 4be9e3d4-7fee-45df-b1ae-5d8967adb0ad
     type: content
+  - name: Agile Politics - Part 2
+    id: 06e62a6a-4bb7-4199-b204-895f21c5904e
+    type: content
   - name: 'Agile Potpurri, with Vivek Angiras'
     id: 78463475-3422-4930-b2fe-b8af60e91ed8
     type: content
@@ -72,9 +75,6 @@ navigation:
     type: content
   - name: Dave Sharrock – 3 Stages of Scaling Agile Organizations
     id: e45f084d-f100-4a8e-8d63-ecb14cc24ba9
-    type: content
-  - name: Agile Politics - Part 2
-    id: 06e62a6a-4bb7-4199-b204-895f21c5904e
     type: content
   - name: The Agile Life and Times of Mike Marchi
     id: f6c221a4-3d51-4e52-a9d6-9454d1ce9c58
