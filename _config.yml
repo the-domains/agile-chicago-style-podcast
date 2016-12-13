@@ -85,6 +85,9 @@ navigation:
   - name: Our Guests
     id: c08973be-b1c3-45a8-9a62-b70ed6926eac
     type: content
+  - name: Agile Politics - Part 2
+    id: 06e62a6a-4bb7-4199-b204-895f21c5904e
+    type: content
 favicon: null
 title: Agile Chicago Style Podcast
 content: []
