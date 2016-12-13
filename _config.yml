@@ -52,6 +52,9 @@ navigation:
   - name: What’s Eating Agile?
     id: 4d691cf9-0392-423e-9e94-bbddb1aef486
     type: content
+  - name: Agile Politics - Part 2
+    id: 06e62a6a-4bb7-4199-b204-895f21c5904e
+    type: content
   - name: Introducing… Matt Beam!
     id: 8f46dce0-9782-4c9c-ab06-ea139d888a08
     type: content
@@ -63,9 +66,6 @@ navigation:
     type: content
   - name: 'Agile Training and Coaching, with Aakash Srinivasan'
     id: 4be9e3d4-7fee-45df-b1ae-5d8967adb0ad
-    type: content
-  - name: Agile Politics - Part 2
-    id: 06e62a6a-4bb7-4199-b204-895f21c5904e
     type: content
   - name: 'Agile Potpurri, with Vivek Angiras'
     id: 78463475-3422-4930-b2fe-b8af60e91ed8
