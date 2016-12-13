@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-13T15:50:13.890Z'
+datePublished: '2016-12-13T15:51:48.255Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T15:49:52.660Z'
+dateModified: '2016-12-13T15:51:47.889Z'
 title: Agile Politics - Part 2
 publisher: {}
 description: >-
@@ -12,9 +12,9 @@ description: >-
   Presidential election results, to springboard into some great examples of how
   national politics and business events can mirror each other. Moreover, how do
   we, as Agile professionals, react to internal politics.
+sourcePath: _posts/2016-12-13-agile-politics-part-2.md
 starred: false
 datePublishedOriginal: '2016-12-13T15:50:13.890Z'
-sourcePath: _posts/2016-12-13-agile-politics-part-2.md
 url: agile-politics-part-2/index.html
 _type: Article
 
