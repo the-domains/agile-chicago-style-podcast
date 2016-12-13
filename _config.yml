@@ -37,6 +37,9 @@ navigation:
   - name: About Us
     id: 02f715be-8077-4f88-a828-8a939ccf2002
     type: content
+  - name: Agile Politics - Part 2
+    id: 06e62a6a-4bb7-4199-b204-895f21c5904e
+    type: content
   - name: Agile Politics - Part 1
     id: 600a57ad-0a9b-4754-9686-3f08f38d74b1
     type: content
@@ -51,9 +54,6 @@ navigation:
     type: content
   - name: What’s Eating Agile?
     id: 4d691cf9-0392-423e-9e94-bbddb1aef486
-    type: content
-  - name: Agile Politics - Part 2
-    id: 06e62a6a-4bb7-4199-b204-895f21c5904e
     type: content
   - name: Introducing… Matt Beam!
     id: 8f46dce0-9782-4c9c-ab06-ea139d888a08
