@@ -2,12 +2,12 @@
 inFeed: true
 description: >-
   At the Agile Professional Learning Network - Chicago Chapter’s first
-  Conference, I caught up with Doc Norton.  He spoke about the Host Leadership
+  Conference, I caught up with Doc Norton. He spoke about the Host Leadership
   model and its role-based examples, instead of character based traits of
-  Servant Leadership.  
-dateModified: '2017-07-25T20:33:28.605Z'
-datePublished: '2017-07-25T20:33:29.362Z'
-title: It Start With an Invitation
+  Servant Leadership.
+dateModified: '2017-07-25T20:43:45.270Z'
+datePublished: '2017-07-25T20:43:46.031Z'
+title: It Starts With an Invitation
 author: []
 publisher: {}
 via: {}
@@ -17,9 +17,9 @@ datePublishedOriginal: '2017-07-25T20:27:06.890Z'
 _type: Blurb
 
 ---
-# It Start With an Invitation
+# It Starts With an Invitation
 
-At the Agile Professional Learning Network - Chicago Chapter's first Conference, I caught up with Doc Norton. He spoke about the Host Leadership model and its role-based examples, instead of character based traits of Servant Leadership. 
+At the Agile Professional Learning Network - Chicago Chapter's first Conference, I caught up with Doc Norton. He spoke about the Host Leadership model and its role-based examples, instead of character based traits of Servant Leadership.
 
 Listen as Doc explains several of the roles that anyone can take on in Host Leadership.
 
