@@ -4,9 +4,16 @@
         <description><![CDATA[Agile Chicago Style Podcast]]></description>
         <link>http://agilechicagostyle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 25 Jul 2017 20:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2017 20:46:40 GMT</lastBuildDate>
         <atom:link href="http://agilechicagostyle.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Jul 2017 20:45:40 GMT</pubDate>
+        <pubDate>Tue, 25 Jul 2017 20:46:36 GMT</pubDate>
+        <item>
+            <title><![CDATA[It Starts With an Invitation]]></title>
+            <description><![CDATA[<h1>It Starts With an Invitation</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkN1qwzAMRl_F-H5Vt5IORt1XGf5RY1HZCrZDlj19nfYuvfv0HaEDutCt2ISqtpXRaCclYPlRWTJqVYs3GiC2xMPHxHbFcmBydc0HLwkwOQyAE1UJCBRgGL5Pw-kTItIYG3wdj7BQaBHOPbWICYFxtH4FO7du-GuQpYM5uWyJYcX6JJtqI1NBFhu2mOXXhn6K6jYFKugbSQZn_X2xJYBWL6vRXavV02v0ecvVF2GmPBqdRStlmWW5zcwdIGa1oLtT27dJ_veVvO3UXXO9wOuh1wexgX1m" height="244"></iframe>,<p>At the Agile Professional Learning Network - Chicago Chapter’s first Conference, I caught up with Doc Norton. He spoke about the Host Leadership model and its role-based examples, instead of character based traits of Servant Leadership.</p>,<p>Listen as Doc explains several of the roles that anyone can take on in Host Leadership.</p>,<p>Doc also has a book on Lean Pub right now, <a href="https://leanpub.com/escapevelocity" title="Escape Velocity">Escape Velocity</a>, where he explores more useful metrics than Velocity.</p>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJxlkN1qwzAMRl_F-H5Vt5IORt1XGf5RY1HZCrZDlj19nfYuvfv0HaEDutCt2ISqtpXRaCclYPlRWTJqVYs3GiC2xMPHxHbFcmBydc0HLwkwOQyAE1UJCBRgGL5Pw-kTItIYG3wdj7BQaBHOPbWICYFxtH4FO7du-GuQpYM5uWyJYcX6JJtqI1NBFhu2mOXXhn6K6jYFKugbSQZn_X2xJYBWL6vRXavV02v0ecvVF2GmPBqdRStlmWW5zcwdIGa1oLtT27dJ_veVvO3UXXO9wOuh1wexgX1m</link>
+            <guid isPermaLink="false">89d5dd21-d533-4745-9ac2-6c5b827f9c75</guid>
+            <pubDate>Tue, 25 Jul 2017 20:27:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Agile Politics - Part 2]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d550fdac-6bee-4b5f-914a-5ce111438a91.jpg">,<h1>Agile Politics - Part 2</h1>,<p>From national elections to ditch digging, Matt and Rick use the recent US Presidential election results, to springboard into some great examples of how national politics and business events can mirror each other. Moreover, how do we, as Agile professionals, react to internal politics.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://agilechicagostyle.com/discussing-the-state-of-scrum-with-maria-matarelli-and-aak/index.html</link>
             <guid isPermaLink="false">10f6e35b-0c20-4acc-b685-02738df1fa82</guid>
             <pubDate>Wed, 12 Oct 2016 14:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Agile Potpourri]]></title>
-            <description><![CDATA[<h1>Agile Potpourri</h1>,<h2>with Vivek Angiras</h2>,<p><a href="https://www.linkedin.com/in/vivekangiras" title="Vivek Angiras">Vivek</a> and Rick discuss many different topics in this conversation ranging from Governance to Training certification, Agile industry diversity to Release Planning, etc. We briefly touch on our career goals of CST and CSC, and where we are at in our journeys.</p>]]></description>
-            <link>http://agilechicagostyle.com/agile-potpurri-with-vivek-angiras/index.html</link>
-            <guid isPermaLink="false">78463475-3422-4930-b2fe-b8af60e91ed8</guid>
-            <pubDate>Wed, 12 Oct 2016 14:20:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
