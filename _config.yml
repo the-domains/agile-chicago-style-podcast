@@ -21,7 +21,7 @@ layout_spectrum: 0.05081394051229305
 analytics:
   google: null
   facebook: null
-  twitter: null
+  twitter: '@AgileChicago'
 author:
   name: 'Rick Waters, Matt Beam'
   email: AgileChicagoStyle@gmail.com
@@ -87,6 +87,9 @@ navigation:
     type: content
   - name: Our Guests
     id: c08973be-b1c3-45a8-9a62-b70ed6926eac
+    type: content
+  - name: It Starts With an Invitation
+    id: 89d5dd21-d533-4745-9ac2-6c5b827f9c75
     type: content
 favicon: null
 title: Agile Chicago Style Podcast
