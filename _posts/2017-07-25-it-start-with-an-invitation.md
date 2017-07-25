@@ -5,8 +5,8 @@ description: >-
   Conference, I caught up with Doc Norton.  He spoke about the Host Leadership
   model and its role-based examples, instead of character based traits of
   Servant Leadership.  
-dateModified: '2017-07-25T20:31:49.255Z'
-datePublished: '2017-07-25T20:31:50.073Z'
+dateModified: '2017-07-25T20:33:28.605Z'
+datePublished: '2017-07-25T20:33:29.362Z'
 title: It Start With an Invitation
 author: []
 publisher: {}
@@ -23,4 +23,6 @@ At the Agile Professional Learning Network - Chicago Chapter's first Conference,
 
 Listen as Doc explains several of the roles that anyone can take on in Host Leadership.
 
-Doc also has a book on Lean Pub right now, Escape Velocity, where he explores more useful metrics than Velocity.
+Doc also has a book on Lean Pub right now, [Escape Velocity][0], where he explores more useful metrics than Velocity.
+
+[0]: https://leanpub.com/escapevelocity "Escape Velocity"
