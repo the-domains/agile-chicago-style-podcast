@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-13T15:54:15.346Z'
+datePublished: '2017-07-25T20:46:22.645Z'
 sourcePath: _posts/2016-10-07-dave-sharrock-3-stages-of-scaling-agile-organizations.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-13T15:54:14.402Z'
+dateModified: '2017-07-25T20:46:21.612Z'
 title: The 3 Stages of Scaling Agile Organizations
 publisher: {}
 description: >-
