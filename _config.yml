@@ -73,11 +73,11 @@ navigation:
   - name: '“Don’t Scrum Undone”, with Angela Johnson'
     id: 020709d8-2edc-4d47-a720-aa01d1034fbd
     type: content
-  - name: Dave Sharrock – 3 Stages of Scaling Agile Organizations
-    id: e45f084d-f100-4a8e-8d63-ecb14cc24ba9
-    type: content
   - name: It Starts With an Invitation
     id: 89d5dd21-d533-4745-9ac2-6c5b827f9c75
+    type: content
+  - name: Dave Sharrock – 3 Stages of Scaling Agile Organizations
+    id: e45f084d-f100-4a8e-8d63-ecb14cc24ba9
     type: content
   - name: The Agile Life and Times of Mike Marchi
     id: f6c221a4-3d51-4e52-a9d6-9454d1ce9c58
