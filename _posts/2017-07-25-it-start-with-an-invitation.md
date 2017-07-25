@@ -5,8 +5,8 @@ description: >-
   Conference, I caught up with Doc Norton. He spoke about the Host Leadership
   model and its role-based examples, instead of character based traits of
   Servant Leadership.
-dateModified: '2017-07-25T20:45:38.717Z'
-datePublished: '2017-07-25T20:45:39.698Z'
+dateModified: '2017-07-25T20:46:21.612Z'
+datePublished: '2017-07-25T20:46:22.649Z'
 title: It Starts With an Invitation
 author: []
 publisher: {}
