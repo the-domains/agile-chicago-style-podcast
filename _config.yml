@@ -58,6 +58,9 @@ navigation:
   - name: Introducing… Matt Beam!
     id: 8f46dce0-9782-4c9c-ab06-ea139d888a08
     type: content
+  - name: It Starts With an Invitation
+    id: 89d5dd21-d533-4745-9ac2-6c5b827f9c75
+    type: content
   - name: 'The Road to DevOps, with Jack Walser'
     id: dbbfc550-7b19-4564-95c2-1987a1a67a88
     type: content
@@ -72,9 +75,6 @@ navigation:
     type: content
   - name: '“Don’t Scrum Undone”, with Angela Johnson'
     id: 020709d8-2edc-4d47-a720-aa01d1034fbd
-    type: content
-  - name: It Starts With an Invitation
-    id: 89d5dd21-d533-4745-9ac2-6c5b827f9c75
     type: content
   - name: Dave Sharrock – 3 Stages of Scaling Agile Organizations
     id: e45f084d-f100-4a8e-8d63-ecb14cc24ba9
