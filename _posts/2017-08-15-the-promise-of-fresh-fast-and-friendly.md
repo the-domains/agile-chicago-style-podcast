@@ -7,16 +7,18 @@ description: >-
   getting off the train every morning.  I’ve seen this sign before, and I’ve
   even read it a few times.  But I’ve always wanted to tell other people what I
   like about it.  So, here goes…
-dateModified: '2017-08-15T14:45:08.010Z'
-datePublished: '2017-08-15T14:46:10.122Z'
+dateModified: '2017-08-15T14:47:41.066Z'
+datePublished: '2017-08-15T14:47:42.129Z'
 title: 'The Promise of Fresh, Fast & Friendly'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-15-the-promise-of-fresh-fast-and-friendly.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-15T14:46:10.122Z'
-sourcePath: _posts/2017-08-15-the-promise-of-fresh-fast-and-friendly.md
-_type: Blurb
+url: the-promise-of-fresh-fast-and-friendly/index.html
+_type: Article
 
 ---
 # The Promise of Fresh, Fast & Friendly
