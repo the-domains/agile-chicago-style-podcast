@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-07-25T20:46:22.574Z'
+datePublished: '2017-08-15T14:56:42.909Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-07-25T20:46:21.612Z'
+dateModified: '2017-08-15T14:56:42.052Z'
 title: Agile Politics - Part 2
 publisher: {}
 description: >-
