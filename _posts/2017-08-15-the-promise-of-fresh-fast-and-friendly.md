@@ -7,8 +7,8 @@ description: >-
   getting off the train every morning.  I’ve seen this sign before, and I’ve
   even read it a few times.  But I’ve always wanted to tell other people what I
   like about it.  So, here goes…
-dateModified: '2017-08-15T14:47:41.066Z'
-datePublished: '2017-08-15T14:47:42.129Z'
+dateModified: '2017-08-15T14:56:42.052Z'
+datePublished: '2017-08-15T14:56:42.905Z'
 title: 'The Promise of Fresh, Fast & Friendly'
 author: []
 publisher: {}
