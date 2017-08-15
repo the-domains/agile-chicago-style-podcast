@@ -91,6 +91,9 @@ navigation:
   - name: Our Guests
     id: c08973be-b1c3-45a8-9a62-b70ed6926eac
     type: content
+  - name: The Promise
+    id: c9effd8f-7e76-43e4-9360-e7a9621f10b5
+    type: content
 favicon: null
 title: Agile Chicago Style Podcast
 content: []
