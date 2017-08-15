@@ -1,14 +1,14 @@
 ---
 inFeed: true
 description: >-
-  I took the picture above at a Potbelly’s this morning.  If you aren’t
-  familiar, Potbelly’s is a casual (read, fast-food) sandwich chain.  I pass
-  this sign at least once every workday, as the shop is my first stop after
-  getting off the train every morning.  I’ve seen this sign before, and I’ve
-  even read it a few times.  But I’ve always wanted to tell other people what I
-  like about it.  So, here goes…
-dateModified: '2017-08-15T14:56:42.052Z'
-datePublished: '2017-08-15T14:56:42.905Z'
+  I took the picture above at a Potbelly’s this morning. If you aren’t familiar,
+  Potbelly’s is a casual (read, fast-food) sandwich chain. I pass this sign at
+  least once every workday, as the shop is my first stop after getting off the
+  train every morning. I’ve seen this sign before, and I’ve even read it a few
+  times. But I’ve always wanted to tell other people what I like about it. So,
+  here goes…
+dateModified: '2017-08-15T15:00:24.450Z'
+datePublished: '2017-08-15T15:00:25.554Z'
 title: 'The Promise of Fresh, Fast & Friendly'
 author: []
 publisher: {}
@@ -26,19 +26,13 @@ _type: Article
 
 I took the picture above at a Potbelly's this morning. If you aren't familiar, Potbelly's is a casual (read, fast-food) sandwich chain. I pass this sign at least once every workday, as the shop is my first stop after getting off the train every morning. I've seen this sign before, and I've even read it a few times. But I've always wanted to tell other people what I like about it. So, here goes...
 
-The sign reads as follows: 
+The sign reads as follows:
 
-Fresh
+**Fresh **Great ingredients, prepared in a shop, made the way you want.
 
-Great ingredients, prepared in a shop, made the way you want.
+**FAST **8 minutes the the line, max.
 
-FAST
-
-8 minutes the the line, max.
-
-Friendly
-
-Hang out, leave happy.
+**Friendly **Hang out, leave happy.
 
 So, let's look at this with an eye for what we want out of our organizations.
 
@@ -58,6 +52,6 @@ I know all of the employees at the Potbelly's. None by name, and only one of the
 
 This paradox is common. But there needs to be an initiator. From both sides the initiator could be identified differently. I decided, one day, to visit Potbelly's - to me, I'm the initiator. From Potbelly's point of view - "Look, there's a customer! Let's implement our Promise!" - they are the initiator, because of their Promise. Either way, as long as the Promise is upheld, the relationship gets better with every delivery.
 
-Common conversations with Potbelly's employees, while I'm waiting for my breakfast, are relationship building conversations. We talk about our weekend, the weather, work, relationships, etc. What does this do for Potbelly's? It gets them more invested in their customers' satisfaction with the experience of patronizing their establishment. What does this do for the customer? It says to me that they are more interested in me as a person, than in the money I will soon give them. 
+Common conversations with Potbelly's employees, while I'm waiting for my breakfast, are relationship building conversations. We talk about our weekend, the weather, work, relationships, etc. What does this do for Potbelly's? It gets them more invested in their customers' satisfaction with the experience of patronizing their establishment. What does this do for the customer? It says to me that they are more interested in me as a person, than in the money I will soon give them.
 
 Can you say you have the same relationship with your customers? Why not? What's your Promise?
