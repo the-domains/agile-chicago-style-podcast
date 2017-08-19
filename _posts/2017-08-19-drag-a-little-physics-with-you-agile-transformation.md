@@ -6,21 +6,25 @@ description: >-
   reckoned with). All of these are correct. But, I like using Drag. I think it
   puts the appropriate negative connotation on the thing that keeps us from
   freely increasing speed in any direction.
-dateModified: '2017-08-19T22:03:27.244Z'
-datePublished: '2017-08-19T22:03:27.700Z'
+dateModified: '2017-08-19T22:09:18.772Z'
+datePublished: '2017-08-19T22:09:19.389Z'
 title: Drag - A little Physics with your Agile Transformation
 author: []
 publisher: {}
 via: {}
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-19T22:01:10.408Z'
 sourcePath: _posts/2017-08-19-drag-a-little-physics-with-you-agile-transformation.md
-_type: Blurb
+url: drag-a-little-physics-with-your-agile-transformation/index.html
+_type: Article
 
 ---
 # Drag - A little Physics with your Agile Transformation
 
 Drag, it's what naturally keeps everything from going faster. You can call it friction. You can call it resistance. You can call it a force (sometimes to be reckoned with). All of these are correct. But, I like using Drag. I think it puts the appropriate negative connotation on the thing that keeps us from freely increasing speed in any direction.
+
+---
 
 Now saying "You're a real drag." takes on a whole new meaning.
 
