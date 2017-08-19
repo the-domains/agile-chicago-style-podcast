@@ -7,8 +7,8 @@ description: >-
   train every morning. I’ve seen this sign before, and I’ve even read it a few
   times. But I’ve always wanted to tell other people what I like about it. So,
   here goes…
-dateModified: '2017-08-15T15:00:24.450Z'
-datePublished: '2017-08-15T15:00:25.554Z'
+dateModified: '2017-08-19T21:58:50.857Z'
+datePublished: '2017-08-19T21:58:51.315Z'
 title: 'The Promise of Fresh, Fast & Friendly'
 author: []
 publisher: {}
