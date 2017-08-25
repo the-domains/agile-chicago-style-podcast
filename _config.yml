@@ -12,7 +12,6 @@ color:
   lightness: 0.007390777702618501
   saturation: 0.22646374401599537
   rhythmicContrast: 0.44876460932794554
-github: true
 opengraph:
   image: null
   type: null
@@ -105,3 +104,4 @@ purpose:
   - type: contact
     url: 'mailto:AgileChicagoStyle@gmail.com'
     label: email us!
+github: true
