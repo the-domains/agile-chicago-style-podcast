@@ -12,6 +12,7 @@ color:
   lightness: 0.007390777702618501
   saturation: 0.22646374401599537
   rhythmicContrast: 0.44876460932794554
+github: true
 opengraph:
   image: null
   type: null
@@ -96,6 +97,9 @@ navigation:
   - name: Drag
     id: 0da5eb6b-b814-43c7-8d3c-c134bfd041be
     type: content
+  - name: 5 ScrumMasters From Hell
+    id: 2e38ae01-f857-446b-9c86-08cb3a799b9d
+    type: content
 favicon: null
 title: Agile Chicago Style Podcast
 content:
@@ -107,20 +111,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/b955a224-daea-433f-bd0d-3a355601a1ef.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -129,4 +132,3 @@ purpose:
   - type: contact
     url: 'mailto:AgileChicagoStyle@gmail.com'
     label: email us!
-github: true
