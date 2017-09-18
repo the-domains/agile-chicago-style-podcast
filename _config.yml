@@ -37,14 +37,14 @@ navigation:
   - name: About Us
     id: 02f715be-8077-4f88-a828-8a939ccf2002
     type: content
+  - name: 5 ScrumMasters From Hell
+    id: 2e38ae01-f857-446b-9c86-08cb3a799b9d
+    type: content
   - name: It Starts With an Invitation
     id: 89d5dd21-d533-4745-9ac2-6c5b827f9c75
     type: content
   - name: Agile Politics - Part 2
     id: 06e62a6a-4bb7-4199-b204-895f21c5904e
-    type: content
-  - name: 5 ScrumMasters From Hell
-    id: 2e38ae01-f857-446b-9c86-08cb3a799b9d
     type: content
   - name: Agile Politics - Part 1
     id: 600a57ad-0a9b-4754-9686-3f08f38d74b1
