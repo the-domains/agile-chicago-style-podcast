@@ -43,6 +43,9 @@ navigation:
   - name: Agile Politics - Part 2
     id: 06e62a6a-4bb7-4199-b204-895f21c5904e
     type: content
+  - name: 5 ScrumMasters From Hell
+    id: 2e38ae01-f857-446b-9c86-08cb3a799b9d
+    type: content
   - name: Agile Politics - Part 1
     id: 600a57ad-0a9b-4754-9686-3f08f38d74b1
     type: content
@@ -51,9 +54,6 @@ navigation:
     type: content
   - name: 'Being Agile or Doing Agile, with Tom Mellor'
     id: e14cb3f2-d97d-4fa2-8b7e-e9408095780d
-    type: content
-  - name: 5 ScrumMasters From Hell
-    id: 2e38ae01-f857-446b-9c86-08cb3a799b9d
     type: content
   - name: 'Talking CSD with Chet Hendrickson, Ron Jeffries and Brian Levy'
     id: c47f0bee-70b0-4133-9574-9360094e366f
