@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "At the Agile Professional Learning Network - Chicago Chapter's 2017 conference, I caught up with Dave Saboe and talked with him a bit about ScrumMasters. \_Paul Madison joined in and we talked about how personality traits in ScrumMasters evolve over time."
-dateModified: '2017-09-18T14:27:14.903Z'
-datePublished: '2017-09-18T14:27:15.949Z'
+dateModified: '2017-09-18T14:28:44.470Z'
+datePublished: '2017-09-18T14:28:45.535Z'
 title: '5 ScrumMasters You Will Meet in Hell, with David Saboe'
 author: []
 publisher: {}
