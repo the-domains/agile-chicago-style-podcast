@@ -85,6 +85,9 @@ navigation:
   - name: Scrum Discussion with Angela Druckman
     id: 642d26bf-cd06-4272-9315-38308516a499
     type: content
+  - name: 5 ScrumMasters From Hell
+    id: 2e38ae01-f857-446b-9c86-08cb3a799b9d
+    type: content
   - name: 'Agile: From Theory into Practice for Social Good'
     id: efba280f-3be0-484e-b28b-eb57a946f10b
     type: content
@@ -96,9 +99,6 @@ navigation:
     type: content
   - name: Drag
     id: 0da5eb6b-b814-43c7-8d3c-c134bfd041be
-    type: content
-  - name: 5 ScrumMasters From Hell
-    id: 2e38ae01-f857-446b-9c86-08cb3a799b9d
     type: content
 favicon: null
 title: Agile Chicago Style Podcast
