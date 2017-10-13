@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-13T18:19:46.719Z'
+datePublished: '2017-10-13T18:29:00.953Z'
 sourcePath: _posts/2016-10-07-dont-scrum-undone-with-angela-johnson.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-13T18:19:46.079Z'
+dateModified: '2017-10-13T18:28:59.127Z'
 title: Don’t Scrum Undone
 publisher: {}
 description: >-
