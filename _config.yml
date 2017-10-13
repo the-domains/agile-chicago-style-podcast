@@ -85,6 +85,9 @@ navigation:
   - name: The Agile Life and Times of Mike Marchi
     id: f6c221a4-3d51-4e52-a9d6-9454d1ce9c58
     type: content
+  - name: Agile Fluency with Ahmed Avais
+    id: dcdea8f4-8592-448b-aadc-4ac8de8d9ce0
+    type: content
   - name: Scrum Discussion with Angela Druckman
     id: 642d26bf-cd06-4272-9315-38308516a499
     type: content
@@ -99,9 +102,6 @@ navigation:
     type: content
   - name: Drag
     id: 0da5eb6b-b814-43c7-8d3c-c134bfd041be
-    type: content
-  - name: Agile Fluency with Ahmed Avais
-    id: dcdea8f4-8592-448b-aadc-4ac8de8d9ce0
     type: content
 favicon: null
 title: Agile Chicago Style Podcast
