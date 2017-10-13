@@ -1,28 +1,25 @@
 ---
 inFeed: true
-description: >-
-  At the Agile Professional Learning Network - Chicago Chapter's 2017
-  conference, Paul Madison and I had the opportunity to talk with Ahmed Avais
-  about the Agile Fluency Project. Ahmed had almost literally just finished his
-  presentation on the Agile Fluency Model when Paul sat him down and asked him
-  about it.
-dateModified: '2017-10-13T18:19:46.079Z'
-datePublished: '2017-10-13T18:19:46.618Z'
+description: ''
+dateModified: '2017-10-13T18:24:34.922Z'
+datePublished: '2017-10-13T18:24:36.734Z'
 title: Agile Fluency with Ahmed Avais
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJxlkEGOwjAMRa8SZQ-GYUBoRLjKKGkMtXDsKklVyuknhV1nZ_9n-cm-0C37hKbUmdHZoDli_jGigtaU3DkL0NfEx83Afsa8ZQpllm2nCTAFjIADFY0IFOF4Ppz3X3voke59hcNpBxPF2sPpewe1x4RQqpfoc9wkEgI_1iZ6VhBtfExBPDHMWN5kMS5kyMjq41KK_vrYNlJZukgZu0oqEHz3mNpasOYjd7bZrXnrnW3-dk2XlZnk7qyoNcYz63QbmRtAFDNheFBdp0lf60j_zZRVcr3A56_XP011gDE
-sourcePath: _posts/2017-10-13-agile-fluency-with-ahmed-avais.md
+hasPage: true
 starred: false
-datePublishedOriginal: '2017-10-13T18:18:18.718Z'
-_type: MediaObject
+datePublishedOriginal: '2017-10-13T18:22:08.288Z'
+sourcePath: _posts/2017-10-13-agile-fluency-with-ahmed-avais.md
+url: agile-fluency-with-ahmed-avais/index.html
+_type: Article
 
 ---
-# Agile Fluency with Ahmed Avais
+# **Agile Fluency with Ahmed Avais**
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkEGOwjAMRa8SZQ-GYUBoRLjKKGkMtXDsKklVyuknhV1nZ_9n-cm-0C37hKbUmdHZoDli_jGigtaU3DkL0NfEx83Afsa8ZQpllm2nCTAFjIADFY0IFOF4Ppz3X3voke59hcNpBxPF2sPpewe1x4RQqpfoc9wkEgI_1iZ6VhBtfExBPDHMWN5kMS5kyMjq41KK_vrYNlJZukgZu0oqEHz3mNpasOYjd7bZrXnrnW3-dk2XlZnk7qyoNcYz63QbmRtAFDNheFBdp0lf60j_zZRVcr3A56_XP011gDE" height="244" style=""></iframe>
+
+---
 
 At the Agile Professional Learning Network - Chicago Chapter's 2017 conference, [Paul Madison][0] and I had the opportunity to talk with [Ahmed Avais][1] about the Agile Fluency Project. Ahmed had almost literally just finished his presentation on the Agile Fluency Model when Paul sat him down and asked him about it.
 
