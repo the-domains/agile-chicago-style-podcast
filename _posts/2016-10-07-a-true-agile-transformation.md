@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-18T14:28:45.454Z'
+datePublished: '2017-10-13T18:19:46.605Z'
 sourcePath: _posts/2016-10-07-a-true-agile-transformation.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-18T14:28:44.470Z'
+dateModified: '2017-10-13T18:19:46.079Z'
 title: A True Agile Transformation
 publisher: {}
 description: >-
