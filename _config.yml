@@ -100,6 +100,9 @@ navigation:
   - name: Drag
     id: 0da5eb6b-b814-43c7-8d3c-c134bfd041be
     type: content
+  - name: Agile Fluency with Ahmed Avais
+    id: dcdea8f4-8592-448b-aadc-4ac8de8d9ce0
+    type: content
 favicon: null
 title: Agile Chicago Style Podcast
 content:
