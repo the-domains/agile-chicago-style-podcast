@@ -67,6 +67,9 @@ navigation:
   - name: 'The Road to DevOps, with Jack Walser'
     id: dbbfc550-7b19-4564-95c2-1987a1a67a88
     type: content
+  - name: Agile Fluency with Ahmed Avais
+    id: dcdea8f4-8592-448b-aadc-4ac8de8d9ce0
+    type: content
   - name: Discussing the State of Scrum – with Maria Matarelli and Aakash Srinivasan
     id: 10f6e35b-0c20-4acc-b685-02738df1fa82
     type: content
@@ -84,9 +87,6 @@ navigation:
     type: content
   - name: The Agile Life and Times of Mike Marchi
     id: f6c221a4-3d51-4e52-a9d6-9454d1ce9c58
-    type: content
-  - name: Agile Fluency with Ahmed Avais
-    id: dcdea8f4-8592-448b-aadc-4ac8de8d9ce0
     type: content
   - name: Scrum Discussion with Angela Druckman
     id: 642d26bf-cd06-4272-9315-38308516a499
