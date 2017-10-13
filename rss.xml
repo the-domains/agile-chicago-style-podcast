@@ -4,9 +4,9 @@
         <description><![CDATA[Agile Chicago Style Podcast]]></description>
         <link>http://agilechicagostyle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Oct 2017 18:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2017 18:29:34 GMT</lastBuildDate>
         <atom:link href="http://agilechicagostyle.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Oct 2017 18:24:37 GMT</pubDate>
+        <pubDate>Fri, 13 Oct 2017 18:29:12 GMT</pubDate>
         <item>
             <title><![CDATA[5 ScrumMasters You Will Meet in Hell, with David Saboe]]></title>
             <description><![CDATA[<p>5 ScrumMasters You Will Meet in Hell, with David Saboe</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkNFuwzAIRX_F8ntLpC3ZNDX9lcmOaY2KIbIdZdnXz2nfsje4B3EEF7pll9CUujGO1msOmL-MqKA1JU-jBYg1cX-a2W2Yz0y-bHKeNAEmjwFwpqIBgQL0H33XDZ8Qke6xwtvQwUqhRhjeO6gRE0KpToLL4ZRICNxSm-ingmjjS_LiiGHD8iS7cSdzRlYX9lL024W2kcreBco4VVIB76bH2taCNS_5aJvdmqd-tM3frpmyMpPcRytqjXHMut4W5gYQxazoH1SPadLfY6T_ZsohuV7g9dfrH1CJgDQ" height="244"></iframe>,<p>At the Agile Professional Learning Network - Chicago Chapter's 2017 conference, I caught up with Dave Saboe and talked with him a bit about ScrumMasters. Paul Madison joined in and we talked about how personality traits in ScrumMasters evolve over time.</p>]]></description>
@@ -64,18 +64,18 @@
             <pubDate>Wed, 12 Oct 2016 13:52:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Talking CSD]]></title>
-            <description><![CDATA[<h1>Talking CSD</h1>,<h2>with Chet Hendrickson, Ron Jeffries and Brian Levy</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0742304-a4ee-44b1-8680-2be57103948a.png">,<p>I recently got the most wonderful opportunity to talk with a couple of legends in the Agile Community – Chet Hendrickson and Ron Jeffries! They’re partnering with Brian Levy to bring a 5-Day, dual certification, public CSD class to Chicago for the week of 14-18 March, 2016.</p>,<p>Ron, Chet and Brian discuss many of the XP Practices we grown to love and integrate into our Scrum implementations. Brian also adds a dash of SAFe to the conversation.The class, in downtown Chicago, combines a 3-day Certified Scrum Developer (CSD) class and a 2-Day SAFe ScrumXP class. Class attendees will be awarded the CSD via Scrum Alliance (assuming they already have other pre-requisites covered), and the Scaled Practitioner (SP) via Scaled Agile.</p>]]></description>
-            <link>http://agilechicagostyle.com/talking-csd-with-chet-hendrickson-ron-jeffries-and-brian-le/index.html</link>
-            <guid isPermaLink="false">c47f0bee-70b0-4133-9574-9360094e366f</guid>
-            <pubDate>Wed, 12 Oct 2016 13:52:07 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Agile Fluency with Ahmed Avais]]></title>
             <description><![CDATA[<h1><strong>Agile Fluency with Ahmed Avais</strong></h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkEGOwjAMRa8SZQ-GYUBoRLjKKGkMtXDsKklVyuknhV1nZ_9n-cm-0C37hKbUmdHZoDli_jGigtaU3DkL0NfEx83Afsa8ZQpllm2nCTAFjIADFY0IFOF4Ppz3X3voke59hcNpBxPF2sPpewe1x4RQqpfoc9wkEgI_1iZ6VhBtfExBPDHMWN5kMS5kyMjq41KK_vrYNlJZukgZu0oqEHz3mNpasOYjd7bZrXnrnW3-dk2XlZnk7qyoNcYz63QbmRtAFDNheFBdp0lf60j_zZRVcr3A56_XP011gDE" height="244"></iframe>]]></description>
             <link>http://agilechicagostyle.com/agile-fluency-with-ahmed-avais/index.html</link>
             <guid isPermaLink="false">dcdea8f4-8592-448b-aadc-4ac8de8d9ce0</guid>
             <pubDate>Fri, 13 Oct 2017 18:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Talking CSD]]></title>
+            <description><![CDATA[<h1>Talking CSD</h1>,<h2>with Chet Hendrickson, Ron Jeffries and Brian Levy</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0742304-a4ee-44b1-8680-2be57103948a.png">,<p>I recently got the most wonderful opportunity to talk with a couple of legends in the Agile Community – Chet Hendrickson and Ron Jeffries! They’re partnering with Brian Levy to bring a 5-Day, dual certification, public CSD class to Chicago for the week of 14-18 March, 2016.</p>,<p>Ron, Chet and Brian discuss many of the XP Practices we grown to love and integrate into our Scrum implementations. Brian also adds a dash of SAFe to the conversation.The class, in downtown Chicago, combines a 3-day Certified Scrum Developer (CSD) class and a 2-Day SAFe ScrumXP class. Class attendees will be awarded the CSD via Scrum Alliance (assuming they already have other pre-requisites covered), and the Scaled Practitioner (SP) via Scaled Agile.</p>]]></description>
+            <link>http://agilechicagostyle.com/talking-csd-with-chet-hendrickson-ron-jeffries-and-brian-le/index.html</link>
+            <guid isPermaLink="false">c47f0bee-70b0-4133-9574-9360094e366f</guid>
+            <pubDate>Wed, 12 Oct 2016 13:52:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
