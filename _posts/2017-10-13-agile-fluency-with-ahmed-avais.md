@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-13T18:24:34.922Z'
-datePublished: '2017-10-13T18:24:36.734Z'
+dateModified: '2017-10-13T18:28:59.127Z'
+datePublished: '2017-10-13T18:29:00.937Z'
 title: Agile Fluency with Ahmed Avais
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-13-agile-fluency-with-ahmed-avais.md
 starred: false
 datePublishedOriginal: '2017-10-13T18:22:08.288Z'
-sourcePath: _posts/2017-10-13-agile-fluency-with-ahmed-avais.md
 url: agile-fluency-with-ahmed-avais/index.html
 _type: Article
 
