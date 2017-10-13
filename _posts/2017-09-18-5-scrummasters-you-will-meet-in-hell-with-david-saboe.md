@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '5 ScrumMasters You Will Meet in Hell, with David Saboe'
-dateModified: '2017-09-18T14:34:23.321Z'
-datePublished: '2017-09-18T14:34:24.220Z'
+dateModified: '2017-10-13T18:19:46.079Z'
+datePublished: '2017-10-13T18:19:46.726Z'
 title: ''
 author: []
 publisher: {}
