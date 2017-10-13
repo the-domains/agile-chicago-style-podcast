@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-18T14:28:45.504Z'
+datePublished: '2017-10-13T18:19:46.728Z'
 sourcePath: _posts/2016-10-07-introducing-matt-beam.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-18T14:28:44.470Z'
+dateModified: '2017-10-13T18:19:46.079Z'
 title: Introducing… Matt Beam!
 publisher: {}
 description: 'Matt Beam, new co-host of Agile Chicago Style Podcast'
