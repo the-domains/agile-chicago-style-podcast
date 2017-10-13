@@ -49,6 +49,9 @@ navigation:
   - name: Agile Politics - Part 1
     id: 600a57ad-0a9b-4754-9686-3f08f38d74b1
     type: content
+  - name: Agile Fluency with Ahmed Avais
+    id: dcdea8f4-8592-448b-aadc-4ac8de8d9ce0
+    type: content
   - name: A True Agile Transformation
     id: 9940140a-fe74-4517-8150-ecd2144aa415
     type: content
@@ -66,9 +69,6 @@ navigation:
     type: content
   - name: 'The Road to DevOps, with Jack Walser'
     id: dbbfc550-7b19-4564-95c2-1987a1a67a88
-    type: content
-  - name: Agile Fluency with Ahmed Avais
-    id: dcdea8f4-8592-448b-aadc-4ac8de8d9ce0
     type: content
   - name: Discussing the State of Scrum – with Maria Matarelli and Aakash Srinivasan
     id: 10f6e35b-0c20-4acc-b685-02738df1fa82
