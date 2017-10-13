@@ -37,6 +37,9 @@ navigation:
   - name: About Us
     id: 02f715be-8077-4f88-a828-8a939ccf2002
     type: content
+  - name: Agile Fluency with Ahmed Avais
+    id: dcdea8f4-8592-448b-aadc-4ac8de8d9ce0
+    type: content
   - name: 5 ScrumMasters From Hell
     id: 2e38ae01-f857-446b-9c86-08cb3a799b9d
     type: content
@@ -48,9 +51,6 @@ navigation:
     type: content
   - name: Agile Politics - Part 1
     id: 600a57ad-0a9b-4754-9686-3f08f38d74b1
-    type: content
-  - name: Agile Fluency with Ahmed Avais
-    id: dcdea8f4-8592-448b-aadc-4ac8de8d9ce0
     type: content
   - name: A True Agile Transformation
     id: 9940140a-fe74-4517-8150-ecd2144aa415
