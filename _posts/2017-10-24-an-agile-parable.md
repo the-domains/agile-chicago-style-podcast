@@ -4,8 +4,8 @@ description: >-
   While chatting with other coaches this morning, we began discussing the
   confusing and sometimes-nebulous semi-goal of ‘high-performance.’  I shared a
   parable.  It goes like this…
-dateModified: '2017-10-24T17:49:10.699Z'
-datePublished: '2017-10-24T17:49:11.357Z'
+dateModified: '2017-10-24T17:49:43.951Z'
+datePublished: '2017-10-24T17:49:44.374Z'
 title: An Agile Parable
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ By telling this story, my goal was to provoke thought. And, that's exactly what 
 
 I began thinking about pain. Pain, and how enduring the human spirit is. When we experience a constant pain, we tend to complain about it. Until we stop. Soon after we stop we accept the pain as the new normal.
 
-(Do you see how this line of thinking actually parallels many conversations about 'high-performance'? When we reach a higher level of performance, it becomes normal. Then we continue to strive for high'er performance, because if we sustain our level of performance, we've stagnated while the rest of the world continues to increase their level of performance.)
+(Do you see how this line of thinking actually parallels many conversations about 'high-performance'? When we reach a higher level of performance, it becomes normal. Then we continue to strive for higher performance, because if we sustain our level of performance, we've stagnated while the rest of the world continues to increase their level of performance.)
 
 I see the biggest resistance to Agile practices around eXtreme Programming (XP) practices, treating people like people, and adopting localized self-management and self-organization. 
 
