@@ -2,18 +2,20 @@
 inFeed: true
 description: >-
   While chatting with other coaches this morning, we began discussing the
-  confusing and sometimes-nebulous semi-goal of ‘high-performance.’  I shared a
-  parable.  It goes like this…
-dateModified: '2017-10-24T17:50:41.023Z'
-datePublished: '2017-10-24T17:50:41.819Z'
+  confusing and sometimes-nebulous semi-goal of ‘high-performance.’ I shared a
+  parable. It goes like this…
+dateModified: '2017-10-24T17:52:29.706Z'
+datePublished: '2017-10-24T17:52:31.711Z'
 title: An Agile Parable
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-10-24-an-agile-parable.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-24T17:40:26.860Z'
-_type: Blurb
+url: an-agile-parable/index.html
+_type: Article
 
 ---
 # An Agile Parable
@@ -29,7 +31,7 @@ I began thinking about pain. Pain, and how enduring the human spirit is. When we
 
 (Do you see how this line of thinking actually parallels many conversations about 'high-performance'? When we reach a higher level of performance, it becomes normal. Then we continue to strive for higher performance, because if we sustain our level of performance, we've stagnated while the rest of the world continues to increase their level of performance.)
 
-I see the biggest resistance to Agile practices around eXtreme Programming (XP) practices, treating people like people, and adopting localized self-management and self-organization. 
+I see the biggest resistance to Agile practices around eXtreme Programming (XP) practices, treating people like people, and adopting localized self-management and self-organization.
 
 Resistance to change is normal. What if we changed normal? If we changed normal to be self-managing teams. It would be painful. For a while. When it became tolerable, and then normal, what if we adopted self-forming teams? It would be painful. For a while.
 
