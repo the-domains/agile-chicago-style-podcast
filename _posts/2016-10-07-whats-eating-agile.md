@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-13T18:29:00.938Z'
+datePublished: '2017-10-24T17:50:41.799Z'
 sourcePath: _posts/2016-10-07-whats-eating-agile.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-13T18:28:59.127Z'
+dateModified: '2017-10-24T17:50:41.023Z'
 title: What’s Eating Agile?
 publisher: {}
 description: Just Matt and Rick
