@@ -6,8 +6,8 @@ description: >-
   reckoned with). All of these are correct. But, I like using Drag. I think it
   puts the appropriate negative connotation on the thing that keeps us from
   freely increasing speed in any direction.
-dateModified: '2017-10-13T18:29:25.538Z'
-datePublished: '2017-10-13T18:29:26.429Z'
+dateModified: '2017-10-24T17:50:41.023Z'
+datePublished: '2017-10-24T17:50:41.833Z'
 title: Drag - A little Physics with your Agile Transformation
 author: []
 publisher: {}
