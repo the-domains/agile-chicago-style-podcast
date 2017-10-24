@@ -4,8 +4,8 @@ description: >-
   While chatting with other coaches this morning, we began discussing the
   confusing and sometimes-nebulous semi-goal of ‘high-performance.’  I shared a
   parable.  It goes like this…
-dateModified: '2017-10-24T17:46:37.334Z'
-datePublished: '2017-10-24T17:46:37.890Z'
+dateModified: '2017-10-24T17:49:10.699Z'
+datePublished: '2017-10-24T17:49:11.357Z'
 title: An Agile Parable
 author: []
 publisher: {}
@@ -34,3 +34,5 @@ I see the biggest resistance to Agile practices around eXtreme Programming (XP) 
 Resistance to change is normal. What if we changed normal? If we changed normal to be self-managing teams. It would be painful. For a while. When it became tolerable, and then normal, what if we adopted self-forming teams? It would be painful. For a while.
 
 The hardest hurdle is always the first. Not because it's the tallest. But because it's not familiar. It feels weird. It looks scary. There's a lot of downside to not clearing the hurdle. But, what if? What if we clear it?
+
+If we clear enough hurdles, we can allow ourselves to sprint (pardon the pun). The hurdles may have slowed us down, but we're better for it. And, clearing hurdles is now the new normal. So, if anyone (even our competitors) throws a hurdle in our way, guess who can clear it with ease?
