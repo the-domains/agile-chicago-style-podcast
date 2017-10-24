@@ -7,8 +7,8 @@ description: >-
   train every morning. I’ve seen this sign before, and I’ve even read it a few
   times. But I’ve always wanted to tell other people what I like about it. So,
   here goes…
-dateModified: '2017-10-13T18:29:25.538Z'
-datePublished: '2017-10-13T18:29:26.424Z'
+dateModified: '2017-10-24T17:50:41.023Z'
+datePublished: '2017-10-24T17:50:41.820Z'
 title: 'The Promise of Fresh, Fast & Friendly'
 author: []
 publisher: {}
@@ -25,6 +25,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32003cd3-e273-4ed9-a79e-7bbfc1c111cd.jpg)
 
 I took the picture above at a Potbelly's this morning. If you aren't familiar, Potbelly's is a casual (read, fast-food) sandwich chain. I pass this sign at least once every workday, as the shop is my first stop after getting off the train every morning. I've seen this sign before, and I've even read it a few times. But I've always wanted to tell other people what I like about it. So, here goes...
+
+---
 
 The sign reads as follows:
 
