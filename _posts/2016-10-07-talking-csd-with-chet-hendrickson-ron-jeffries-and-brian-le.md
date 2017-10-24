@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-10-13T18:29:00.938Z'
+datePublished: '2017-10-24T17:50:41.772Z'
 sourcePath: >-
   _posts/2016-10-07-talking-csd-with-chet-hendrickson-ron-jeffries-and-brian-le.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-13T18:28:59.127Z'
+dateModified: '2017-10-24T17:50:41.023Z'
 title: Talking CSD
 publisher: {}
 description: >-
