@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-10-24T17:50:41.833Z'
+datePublished: '2017-10-30T16:04:42.137Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-24T17:50:41.023Z'
+dateModified: '2017-10-30T16:04:41.031Z'
 title: Agile Politics - Part 1
 publisher: {}
 description: With Mike Marchi and Sandie Behrens
