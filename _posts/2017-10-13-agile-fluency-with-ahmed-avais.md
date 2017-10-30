@@ -1,8 +1,13 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-10-30T17:00:35.260Z'
-datePublished: '2017-10-30T17:00:36.464Z'
+description: >-
+  At the Agile Professional Learning Network - Chicago Chapter's 2017
+  conference, Paul Madison and I had the opportunity to talk with Ahmed Avais
+  about the Agile Fluency Project. Ahmed had almost literally just finished his
+  presentation on the Agile Fluency Model when Paul sat him down and asked him
+  about it.
+dateModified: '2017-10-30T17:57:28.752Z'
+datePublished: '2017-10-30T17:57:29.505Z'
 title: Agile Fluency with Ahmed Avais
 author: []
 publisher: {}
@@ -19,9 +24,9 @@ _type: Article
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkEGOwjAMRa8SZQ-GYUBoRLjKKGkMtXDsKklVyuknhV1nZ_9n-cm-0C37hKbUmdHZoDli_jGigtaU3DkL0NfEx83Afsa8ZQpllm2nCTAFjIADFY0IFOF4Ppz3X3voke59hcNpBxPF2sPpewe1x4RQqpfoc9wkEgI_1iZ6VhBtfExBPDHMWN5kMS5kyMjq41KK_vrYNlJZukgZu0oqEHz3mNpasOYjd7bZrXnrnW3-dk2XlZnk7qyoNcYz63QbmRtAFDNheFBdp0lf60j_zZRVcr3A56_XP011gDE" height="244" style=""></iframe>
 
----
-
 At the Agile Professional Learning Network - Chicago Chapter's 2017 conference, [Paul Madison][0] and I had the opportunity to talk with [Ahmed Avais][1] about the Agile Fluency Project. Ahmed had almost literally just finished his presentation on the Agile Fluency Model when Paul sat him down and asked him about it.
+
+---
 
 Ahmed told Paul about the 4 zones of Fluency
 
