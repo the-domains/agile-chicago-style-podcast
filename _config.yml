@@ -73,6 +73,9 @@ navigation:
   - name: Discussing the State of Scrum – with Maria Matarelli and Aakash Srinivasan
     id: 10f6e35b-0c20-4acc-b685-02738df1fa82
     type: content
+  - name: 'The Trust Factor, With Danielle Pollard'
+    id: 0a684486-57bd-4d82-9071-c117337a95cd
+    type: content
   - name: 'Agile Training and Coaching, with Aakash Srinivasan'
     id: 4be9e3d4-7fee-45df-b1ae-5d8967adb0ad
     type: content
@@ -87,9 +90,6 @@ navigation:
     type: content
   - name: The Agile Life and Times of Mike Marchi
     id: f6c221a4-3d51-4e52-a9d6-9454d1ce9c58
-    type: content
-  - name: 'The Trust Factor, With Danielle Pollard'
-    id: 0a684486-57bd-4d82-9071-c117337a95cd
     type: content
   - name: Scrum Discussion with Angela Druckman
     id: 642d26bf-cd06-4272-9315-38308516a499
