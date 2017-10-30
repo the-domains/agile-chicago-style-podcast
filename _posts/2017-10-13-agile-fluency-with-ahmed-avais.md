@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-30T16:04:41.031Z'
-datePublished: '2017-10-30T16:04:42.043Z'
+dateModified: '2017-10-30T17:00:35.260Z'
+datePublished: '2017-10-30T17:00:36.464Z'
 title: Agile Fluency with Ahmed Avais
 author: []
 publisher: {}
