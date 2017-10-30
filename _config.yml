@@ -103,6 +103,9 @@ navigation:
   - name: Drag
     id: 0da5eb6b-b814-43c7-8d3c-c134bfd041be
     type: content
+  - name: 'The Trust Factor, With Danielle Pollard'
+    id: 0a684486-57bd-4d82-9071-c117337a95cd
+    type: content
 favicon: null
 title: Agile Chicago Style Podcast
 content:
