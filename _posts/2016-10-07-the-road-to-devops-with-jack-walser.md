@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-30T16:04:42.139Z'
+datePublished: '2017-10-30T17:00:36.466Z'
 sourcePath: _posts/2016-10-07-the-road-to-devops-with-jack-walser.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-30T16:04:41.031Z'
+dateModified: '2017-10-30T17:00:35.260Z'
 title: The Road to DevOps
 publisher: {}
 description: >-
