@@ -5,8 +5,8 @@ description: >-
   conference, I caught up with Dave Saboe and talked with him a bit about
   ScrumMasters. Paul Madison joined in and we talked about how personality
   traits in ScrumMasters evolve over time.
-dateModified: '2017-10-24T17:50:41.023Z'
-datePublished: '2017-10-24T17:50:41.799Z'
+dateModified: '2017-10-30T16:04:41.031Z'
+datePublished: '2017-10-30T16:04:42.045Z'
 title: '5 ScrumMasters You Will Meet in Hell, with David Saboe'
 author: []
 publisher: {}
