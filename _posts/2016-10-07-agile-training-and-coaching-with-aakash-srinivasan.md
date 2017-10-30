@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-10-24T17:50:41.841Z'
+datePublished: '2017-10-30T16:04:42.103Z'
 sourcePath: _posts/2016-10-07-agile-training-and-coaching-with-aakash-srinivasan.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-24T17:50:41.023Z'
+dateModified: '2017-10-30T16:04:41.031Z'
 title: Agile Training and Coaching
 publisher: {}
 description: >-
