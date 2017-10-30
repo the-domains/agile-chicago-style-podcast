@@ -58,6 +58,9 @@ navigation:
   - name: 'Being Agile or Doing Agile, with Tom Mellor'
     id: e14cb3f2-d97d-4fa2-8b7e-e9408095780d
     type: content
+  - name: 'The Trust Factor, With Danielle Pollard'
+    id: 0a684486-57bd-4d82-9071-c117337a95cd
+    type: content
   - name: 'Talking CSD with Chet Hendrickson, Ron Jeffries and Brian Levy'
     id: c47f0bee-70b0-4133-9574-9360094e366f
     type: content
@@ -72,9 +75,6 @@ navigation:
     type: content
   - name: Discussing the State of Scrum – with Maria Matarelli and Aakash Srinivasan
     id: 10f6e35b-0c20-4acc-b685-02738df1fa82
-    type: content
-  - name: 'The Trust Factor, With Danielle Pollard'
-    id: 0a684486-57bd-4d82-9071-c117337a95cd
     type: content
   - name: 'Agile Training and Coaching, with Aakash Srinivasan'
     id: 4be9e3d4-7fee-45df-b1ae-5d8967adb0ad
