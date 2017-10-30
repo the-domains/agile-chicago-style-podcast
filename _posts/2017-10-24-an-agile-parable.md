@@ -4,8 +4,8 @@ description: >-
   While chatting with other coaches this morning, we began discussing the
   confusing and sometimes-nebulous semi-goal of ‘high-performance.’ I shared a
   parable. It goes like this…
-dateModified: '2017-10-24T17:52:29.706Z'
-datePublished: '2017-10-24T17:52:31.711Z'
+dateModified: '2017-10-30T16:04:41.031Z'
+datePublished: '2017-10-30T16:04:42.127Z'
 title: An Agile Parable
 author: []
 publisher: {}
