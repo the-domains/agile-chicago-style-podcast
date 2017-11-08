@@ -4,9 +4,16 @@
         <description><![CDATA[Agile Chicago Style Podcast]]></description>
         <link>http://agilechicagostyle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Nov 2017 19:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2017 19:03:56 GMT</lastBuildDate>
         <atom:link href="http://agilechicagostyle.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Nov 2017 19:00:39 GMT</pubDate>
+        <pubDate>Wed, 08 Nov 2017 19:03:46 GMT</pubDate>
+        <item>
+            <title><![CDATA[Short Discussion, with Paul Madison]]></title>
+            <description><![CDATA[<h1>Short Discussion, with Paul Madison</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkNtuwzAIhl_F8v1KtB7UTU1fZfKBNqgYIttRlj79nPYuu4P_Q3yCC92yS2hKXRh76zVHzN9GVNCakkNvAYaa-Pgxslsw75h8WWQXNAEmjxFwpKIRgSIcz1-f3bmDAek-VNifOpgp1gFOhw7qgAmhVCfR5Qhuqs3xW0G0oSl5ccSwYHmRVbaSMSOri2sp-uNiW0Zl7SJlDJVUwLvwmNeN1ry9vW1ia17m3jZ1OyRkZSa591bUGuOYdb5NzA0gipnRP6hu06TPbaT_ZsomuV7g_dLrH9pWfls" height="244"></iframe>,<p><a href="https://www.linkedin.com/in/paulmadison/" title="">Paul Madison</a> stops in to chat at the APLN Chicago 2017 Conference, and gets roped into helping produce the rest of the podcasts for the conference.</p>,<p>Before that, though, Paul and I shoot the breeze about the current market temperature on experimentation and how to handle violations of Team Working Agreements.</p>]]></description>
+            <link>http://agilechicagostyle.com/short-discussion-with-paul-madison/index.html</link>
+            <guid isPermaLink="false">31dc99e9-5fb0-4f1f-afd6-ee6435149433</guid>
+            <pubDate>Wed, 08 Nov 2017 19:00:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Trust Factor with Danielle Pollard]]></title>
             <description><![CDATA[<h1>The Trust Factor with Danielle Pollard</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkNFuwjAMRX8lyvswYyvaJsKvTEljqIVjV0mqUr5-Kbx1b_Y9lo_sE12yT2hKXRidDZoj5h8jKmhNyb2zAENN3L2N7BfMO6ZQFtn1mgBTwAg4UtGIQBG6r-_3w6GDAek6VPg47mGmWAc4fu6hDpgQSvUSfY7gp9oc9wqiDU0piCeGBcuTrLKVjBlZfVxL0V8f2zIqaxcpY19JBYLvb_O60ZqX19kmtuZpdrap2yF9VmaSq7Oi1hjPrPNlYm4AUcyM4UZ1myZ9bCP9N1M2yfkEr5ee_wDaUX5b" height="244"></iframe>,<p><a href="https://www.linkedin.com/in/daniellepollard/" title="">Danielle Pollard</a> stops to chat before going on stage at the APLN Chicago May 2017 Conference. Danielle explains about The Trust Factor and the Three Conditions for Collaboration. During the presentation she shared her High Performance Hierarchy of Needs.</p>,<p>For more on The Trust Factor, please check out her soon-to-be-published book <strong>The Trust Factor: 3 Keys to Unlocking the Power of Trust to Build the Perfect Agile Team</strong>.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://agilechicagostyle.com/a-true-agile-transformation/index.html</link>
             <guid isPermaLink="false">9940140a-fe74-4517-8150-ecd2144aa415</guid>
             <pubDate>Wed, 12 Oct 2016 14:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Being Agile or Doing Agile]]></title>
-            <description><![CDATA[<h1>Being Agile or Doing Agile</h1>,<h2>with Tom Mellor</h2>,<p>The ever-controversial Tom Mellor discusses the differences between ‘Being Agile’ and ‘Doing Agile.’ Tom talks quite a bit about Frederic Laloux’s organizational paradigms (categorized by a color spectrum), and gets us started down a road that leads to differences in what we are taught about the basic elements of Scrum – or at least what we thought we were taught.</p>,<p>Tom also qualifies and stands by his statement “I think the ScrumMaster was the worst thing ever created in Scrum” by answering the question “If you don’t have a ScrumMaster, how do you expect [a new Scrum Team] to become a team that practices Scrum?” — You have to listen to get his answer</p>]]></description>
-            <link>http://agilechicagostyle.com/being-agile-or-doing-agile-with-tom-mellor/index.html</link>
-            <guid isPermaLink="false">e14cb3f2-d97d-4fa2-8b7e-e9408095780d</guid>
-            <pubDate>Wed, 12 Oct 2016 13:52:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
