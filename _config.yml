@@ -94,6 +94,9 @@ navigation:
   - name: Scrum Discussion with Angela Druckman
     id: 642d26bf-cd06-4272-9315-38308516a499
     type: content
+  - name: Short Discussion with Paul Madison
+    id: 31dc99e9-5fb0-4f1f-afd6-ee6435149433
+    type: content
   - name: 'Agile: From Theory into Practice for Social Good'
     id: efba280f-3be0-484e-b28b-eb57a946f10b
     type: content
@@ -105,9 +108,6 @@ navigation:
     type: content
   - name: Drag
     id: 0da5eb6b-b814-43c7-8d3c-c134bfd041be
-    type: content
-  - name: Short Discussion with Paul Madison
-    id: 31dc99e9-5fb0-4f1f-afd6-ee6435149433
     type: content
 favicon: null
 title: Agile Chicago Style Podcast
