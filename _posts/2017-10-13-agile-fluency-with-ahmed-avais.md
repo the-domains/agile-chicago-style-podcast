@@ -6,8 +6,8 @@ description: >-
   about the Agile Fluency Project. Ahmed had almost literally just finished his
   presentation on the Agile Fluency Model when Paul sat him down and asked him
   about it.
-dateModified: '2017-10-30T17:57:28.752Z'
-datePublished: '2017-10-30T17:57:29.505Z'
+dateModified: '2017-11-08T19:03:24.236Z'
+datePublished: '2017-11-08T19:03:25.064Z'
 title: Agile Fluency with Ahmed Avais
 author: []
 publisher: {}
