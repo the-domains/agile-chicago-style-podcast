@@ -64,6 +64,9 @@ navigation:
   - name: 'Talking CSD with Chet Hendrickson, Ron Jeffries and Brian Levy'
     id: c47f0bee-70b0-4133-9574-9360094e366f
     type: content
+  - name: Short Discussion with Paul Madison
+    id: 31dc99e9-5fb0-4f1f-afd6-ee6435149433
+    type: content
   - name: What’s Eating Agile?
     id: 4d691cf9-0392-423e-9e94-bbddb1aef486
     type: content
@@ -78,9 +81,6 @@ navigation:
     type: content
   - name: 'Agile Training and Coaching, with Aakash Srinivasan'
     id: 4be9e3d4-7fee-45df-b1ae-5d8967adb0ad
-    type: content
-  - name: Short Discussion with Paul Madison
-    id: 31dc99e9-5fb0-4f1f-afd6-ee6435149433
     type: content
   - name: 'Agile Potpurri, with Vivek Angiras'
     id: 78463475-3422-4930-b2fe-b8af60e91ed8
