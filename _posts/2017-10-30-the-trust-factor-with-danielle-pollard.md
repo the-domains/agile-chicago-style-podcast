@@ -5,8 +5,8 @@ description: >-
   2017 Conference. Danielle explains about The Trust Factor and the Three
   Conditions for Collaboration. During the presentation she shared her High
   Performance Hierarchy of Needs.
-dateModified: '2017-10-30T17:00:35.260Z'
-datePublished: '2017-10-30T17:00:36.465Z'
+dateModified: '2017-11-08T19:03:24.236Z'
+datePublished: '2017-11-08T19:03:25.051Z'
 title: The Trust Factor with Danielle Pollard
 author: []
 publisher: {}
