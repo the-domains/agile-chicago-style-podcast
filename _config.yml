@@ -49,6 +49,9 @@ navigation:
   - name: It Starts With an Invitation
     id: 89d5dd21-d533-4745-9ac2-6c5b827f9c75
     type: content
+  - name: Short Discussion with Paul Madison
+    id: 31dc99e9-5fb0-4f1f-afd6-ee6435149433
+    type: content
   - name: Agile Politics - Part 2
     id: 06e62a6a-4bb7-4199-b204-895f21c5904e
     type: content
@@ -63,9 +66,6 @@ navigation:
     type: content
   - name: 'Talking CSD with Chet Hendrickson, Ron Jeffries and Brian Levy'
     id: c47f0bee-70b0-4133-9574-9360094e366f
-    type: content
-  - name: Short Discussion with Paul Madison
-    id: 31dc99e9-5fb0-4f1f-afd6-ee6435149433
     type: content
   - name: What’s Eating Agile?
     id: 4d691cf9-0392-423e-9e94-bbddb1aef486
