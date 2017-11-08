@@ -37,6 +37,9 @@ navigation:
   - name: About Us
     id: 02f715be-8077-4f88-a828-8a939ccf2002
     type: content
+  - name: Short Discussion with Paul Madison
+    id: 31dc99e9-5fb0-4f1f-afd6-ee6435149433
+    type: content
   - name: 'The Trust Factor, With Danielle Pollard'
     id: 0a684486-57bd-4d82-9071-c117337a95cd
     type: content
@@ -48,9 +51,6 @@ navigation:
     type: content
   - name: It Starts With an Invitation
     id: 89d5dd21-d533-4745-9ac2-6c5b827f9c75
-    type: content
-  - name: Short Discussion with Paul Madison
-    id: 31dc99e9-5fb0-4f1f-afd6-ee6435149433
     type: content
   - name: Agile Politics - Part 2
     id: 06e62a6a-4bb7-4199-b204-895f21c5904e
