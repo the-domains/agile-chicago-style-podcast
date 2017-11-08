@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Paul Madison stops in to chat at the APLN Chicago 2017 Conference, and gets
   roped into helping produce the rest of the podcasts for the conference.
-dateModified: '2017-11-08T19:03:24.236Z'
-datePublished: '2017-11-08T19:03:25.064Z'
+dateModified: '2017-11-08T19:05:00.698Z'
+datePublished: '2017-11-08T19:05:01.462Z'
 title: 'Short Discussion, with Paul Madison'
 author: []
 publisher: {}
